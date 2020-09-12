@@ -44,7 +44,7 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 * SECTION §1/2: [J.H. Moon](jh.moon@nyu.edu)
   * Tuesdays and Thursdays, 11:15am – 12:30pm;
   * Fridays, 11:15am – 12:30pm (recitation)
-  * Blended Mode. Classroom : Room 824, [Zoom meeting link] ()
+  * Blended Mode. Classroom : Room 824, [Zoom meeting link]()
 * SECTION §3/4: [Oliver Steele](ows1@nyu.edu)
   * Mondays and Wednesdays, 9:45am – 11:00am;
   * Fridays, 9:45am – 11:00am (recitation)

@@ -23,7 +23,7 @@ The syllabus and course schedule may be subject to change. Changes will be commu
     * Chapter 2. Starting to Code
   * p5js.org
 
-#### CLASS 2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu
+#### CLASS2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu
 * Lecture
   * ...
 * Exercise
@@ -40,7 +40,6 @@ The syllabus and course schedule may be subject to change. Changes will be commu
   * ...
 * Reading and Viewing
   * ...
-
 
 ## Course Information
 * Link to the [syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit?usp=sharing)

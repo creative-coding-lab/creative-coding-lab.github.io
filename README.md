@@ -6,9 +6,32 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 
 ## Course Schedule - Fall 2020
 
-### Week 1 - Introduction to Creative Coding Lab
+### Week 1
 
-#### SESSION 1 | 9/14 Mon, 9/14 Tue
+#### CLASS1 - Introduction to CCL - 9/14 Mon, 9/14 Tue
+* Lecture
+  * Overview of the Class
+  * Workflow & Tools
+  * Git / Github
+  * p5 web editor
+  * P5 web editor console
+  * Recognizing errors
+* Exercise
+  * ...
+* Reading and Viewing
+  * Getting Started with p5.js
+    * Chapter 2. Starting to Code
+  * p5js.org
+
+#### CLASS 2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu
+* Lecture
+  * ...
+* Exercise
+  * ...
+* Reading and Viewing
+  * ...
+
+#### RECITATION | 9/18 Fri
 * Lecture
   * Workflow & Tools
   * Git / Github
@@ -18,28 +41,9 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 * Reading and Viewing
   * ...
 
-#### SESSION 2 | 9/16 Wed, 9/17 Thu
-* Lecture
-  * Workflow & Tools
-  * Git / Github
-  * Intro to Computer Graphics
-* Exercise
-  * ...
-* Reading and Viewing
-  * ...
-  
-#### Recitation | 9/18 Fri
-* Lecture
-  * Workflow & Tools
-  * Git / Github
-  * Intro to Computer Graphics
-* Exercise
-  * ...
-* Reading and Viewing
-  * ...
 
 ## Course Information
-* Link to the [syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit?usp=sharing]
+* Link to the [syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit?usp=sharing)
 * SECTION §1/2: [J.H. Moon](jh.moon@nyu.edu)
   * Tuesdays and Thursdays, 11:15am – 12:30pm;
   * Fridays, 11:15am – 12:30pm (recitation)

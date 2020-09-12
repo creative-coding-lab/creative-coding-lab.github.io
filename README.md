@@ -47,17 +47,14 @@ The syllabus and course schedule may be subject to change. Changes will be commu
   * Tuesdays and Thursdays, 11:15am – 12:30pm;
   * Fridays, 11:15am – 12:30pm (recitation)
   * Blended Mode. Classroom : Room 824, [Zoom meeting link] ()
-  * Google Classroom: invitation code
 * SECTION §3/4: [Oliver Steele](ows1@nyu.edu)
   * Mondays and Wednesdays, 9:45am – 11:00am;
   * Fridays, 9:45am – 11:00am (recitation)
   * Online only. [Zoom meeting link]()
-  * Google Classroom: invitation code
 * SECTION §5/6: [Rodolfo Cossovich](cossovich@nyu.edu)
   * Tuesdays and Thursdays, 6:30pm – 7:45pm;
   * Fridays, 1:45pm – 3:00pm (recitation)
   * Online only. [Zoom meeting link]()
-  * Google Classroom: invitation code
 * Office Hours / Virtual Office Hours
   * Steele: By appointment [Sign up here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1TaDFWeEV2ZzFHfGRlZmF1bHR8NzBkMmRmNGEzZGE3ZDBmNzExMGUwYWZkYzkwZmFkYWI)
   * Moon: Thursdays, 2pm – 5pm. Room 939 or Zoom. ([By appointment](jh.moon@nyu.edu))

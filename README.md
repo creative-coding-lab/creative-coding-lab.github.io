@@ -4,7 +4,7 @@
 The syllabus and course schedule may be subject to change. Changes will be communicated via email or Slack and in Google Classroom. It is your responsibility to check email messages and course announcements to stay current in the online phase of the course.
 
 ## Course Information
-
+* Link to the [syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit?usp=sharing]
 * SECTION §1/2: [J.H. Moon](jh.moon@nyu.edu)
   * Tuesdays and Thursdays, 11:15am – 12:30pm;
   * Fridays, 11:15am – 12:30pm (recitation)
@@ -34,6 +34,16 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 * Creative Coding Lab Learning Assistants:
   * [Haoquan (Kenneth) Wang](hw1882@nyu.edu)
   * [Ning Zhou](nz826@nyu.edu)
+
+## Course Schedule - Fall 2020
+
+### Week 1 - Introduction to Creative Coding Lab
+Session 1 | 9/14 Mon, 9/14 Tue
+* Workflow & Tools
+  * Git / Github
+* Intro to Computer Graphics
+* Readings and Viewings
+
 
 ## Course Description
 In this course students will learn the fundamentals of computation, software design, and web technologies, through a series of creative projects. The course is intended to equip students with the skills to develop artistic and business projects that include a significant computational component. Topics such as variables, functions, components, and functional and reactive programming will be brought together to create interactive applications, generative art, data visualization, and other domains. Within the framework of these creative projects students will develop a greater understanding of how computer programs operate, be exposed to various concepts used to create experiences and interactions, and become more familiar with some of the technologies that constitute the internet. This course is intended for students with no prior programming background.

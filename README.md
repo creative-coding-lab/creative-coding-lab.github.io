@@ -5,35 +5,35 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 
 ## Course Information
 
-* SECTION §1/2: [J.H. Moon] (jh.moon@nyu.edu)
+* SECTION §1/2: [J.H. Moon](jh.moon@nyu.edu)
   * Tuesdays and Thursdays, 11:15am – 12:30pm;
   * Fridays, 11:15am – 12:30pm (recitation)
   * Blended Mode. Classroom : Room 824, [Zoom meeting link] ()
   * Google Classroom: invitation code
-* SECTION §3/4: [Oliver Steele] (ows1@nyu.edu)
+* SECTION §3/4: [Oliver Steele](ows1@nyu.edu)
   * Mondays and Wednesdays, 9:45am – 11:00am;
   * Fridays, 9:45am – 11:00am (recitation)
-  * Online only. [Zoom meeting link] ()
+  * Online only. [Zoom meeting link]()
   * Google Classroom: invitation code
-* SECTION §5/6: [Rodolfo Cossovich] (cossovich@nyu.edu)
+* SECTION §5/6: [Rodolfo Cossovich](cossovich@nyu.edu)
   * Tuesdays and Thursdays, 6:30pm – 7:45pm;
   * Fridays, 1:45pm – 3:00pm (recitation)
-  * Online only. [Zoom meeting link] ()
+  * Online only. [Zoom meeting link]()
   * Google Classroom: invitation code
 * Office Hours / Virtual Office Hours
-  * Steele: By appointment [Sign up here.] (https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1TaDFWeEV2ZzFHfGRlZmF1bHR8NzBkMmRmNGEzZGE3ZDBmNzExMGUwYWZkYzkwZmFkYWI)
-  * Moon: Thursdays, 2pm – 5pm. Room 939 or Zoom. ([By appointment] (jh.moon@nyu.edu))
-  * Cossovich: By appointment [Sign up here.] ()
+  * Steele: By appointment [Sign up here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1TaDFWeEV2ZzFHfGRlZmF1bHR8NzBkMmRmNGEzZGE3ZDBmNzExMGUwYWZkYzkwZmFkYWI)
+  * Moon: Thursdays, 2pm – 5pm. Room 939 or Zoom. ([By appointment](jh.moon@nyu.edu))
+  * Cossovich: By appointment [Sign up here.]()
   * Appointment rules
     * To ensure that the instructor am available, schedule your appointment at least an hour ahead of time. Google Calendar will let you schedule it at the last minute, but the instructor may not see it or be available then.
     * Please note that all sections are following the same syllabus, so even if you cannot meet with your own instructor, feel free to sign up with another. If none of the times work for your schedule, please email your instructor for an appointment.
 * Creative Coding Lab Fellows:
-  * [Linda László] (lll337@nyu.edu)
-  * [Yinmiao (Demi) Li] (yl4121@nyu.edu)
-  * [Zeping (Phyllis) Fei] (zf534@nyu.edu)
+  * [Linda László](lll337@nyu.edu)
+  * [Yinmiao (Demi) Li](yl4121@nyu.edu)
+  * [Zeping (Phyllis) Fei](zf534@nyu.edu)
 * Creative Coding Lab Learning Assistants:
-  * [Haoquan (Kenneth) Wang] (hw1882@nyu.edu)
-  * [Ning Zhou] (nz826@nyu.edu)
+  * [Haoquan (Kenneth) Wang](hw1882@nyu.edu)
+  * [Ning Zhou](nz826@nyu.edu)
 
 ## Course Description
 In this course students will learn the fundamentals of computation, software design, and web technologies, through a series of creative projects. The course is intended to equip students with the skills to develop artistic and business projects that include a significant computational component. Topics such as variables, functions, components, and functional and reactive programming will be brought together to create interactive applications, generative art, data visualization, and other domains. Within the framework of these creative projects students will develop a greater understanding of how computer programs operate, be exposed to various concepts used to create experiences and interactions, and become more familiar with some of the technologies that constitute the internet. This course is intended for students with no prior programming background.

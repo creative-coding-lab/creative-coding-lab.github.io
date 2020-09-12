@@ -58,7 +58,7 @@ The syllabus and course schedule may be subject to change. Changes will be commu
   * Moon: Thursdays, 2pm – 5pm. Room 939 or Zoom. ([By appointment](jh.moon@nyu.edu))
   * Cossovich: By appointment [Sign up here.]()
   * Appointment rules
-    * To ensure that the instructor am available, schedule your appointment at least an hour ahead of time. Google Calendar will let you schedule it at the last minute, but the instructor may not see it or be available then.
+    * To ensure that the instructor is available, schedule your appointment at least an hour ahead of time. Google Calendar will let you schedule it at the last minute, but the instructor may not see it or be available then.
     * Please note that all sections are following the same syllabus, so even if you cannot meet with your own instructor, feel free to sign up with another. If none of the times work for your schedule, please email your instructor for an appointment.
 * Creative Coding Lab Fellows:
   * [Linda László](lll337@nyu.edu)
@@ -67,6 +67,12 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 * Creative Coding Lab Learning Assistants:
   * [Haoquan (Kenneth) Wang](hw1882@nyu.edu)
   * [Ning Zhou](nz826@nyu.edu)
+
+## Project Descriptions
+### Project I. Generative Visuals
+### Project II. Interactive Experience
+### Project III. Data Visualization
+### Project IV. Creative Coding
 
 ## Course Description
 In this course students will learn the fundamentals of computation, software design, and web technologies, through a series of creative projects. The course is intended to equip students with the skills to develop artistic and business projects that include a significant computational component. Topics such as variables, functions, components, and functional and reactive programming will be brought together to create interactive applications, generative art, data visualization, and other domains. Within the framework of these creative projects students will develop a greater understanding of how computer programs operate, be exposed to various concepts used to create experiences and interactions, and become more familiar with some of the technologies that constitute the internet. This course is intended for students with no prior programming background.

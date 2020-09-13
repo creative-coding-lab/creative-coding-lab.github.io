@@ -6,7 +6,7 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 # Syllabus - Fall 2020
 
 ## Week 1
-### CLASS1 - Introduction to CCL - 9/14 Mon, 9/14 Tue
+### CLASS1 - Introduction to CCLab - 9/14 Mon, 9/14 Tue
 * Lecture
   * Overview of the Class
     * Join [CCLab Slack Workspace](https://join.slack.com/t/creative-coding-lab/shared_invite/zt-erf82ak3-8c9Wiw5oUss96f1xKFH2Ow)

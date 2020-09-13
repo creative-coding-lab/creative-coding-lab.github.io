@@ -9,12 +9,13 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 ### CLASS1 - Introduction to CCL - 9/14 Mon, 9/14 Tue
 * Lecture
   * Overview of the Class
+    * Join [CCLab Slack Workspace](https://join.slack.com/t/creative-coding-lab/shared_invite/zt-erf82ak3-8c9Wiw5oUss96f1xKFH2Ow)
     * Join Google Classroom
-      * [Link to Section1/2: Moon]()
-      * [Link to Section3/4: Steele]()
-      * [Link to Section5/6: Cossovich]()
-    * Create your own [Documentation Blog]()
-    * Sign up with a new [Github](https://github.com/) account 
+      * [Link to Section1/2: Moon](https://classroom.google.com/c/MTIyNjY4MDU3NDUw?cjc=ie7bu72)
+      * [Link to Section3/4: Steele](https://classroom.google.com/c/MTIyNjY4MDU3NDI1?cjc=uf5opmd)
+      * Link to Section5/6: Cossovich
+    * Create your own [Documentation Blog](https://docs.google.com/presentation/d/1WDuHaSshfkKVhLEi7HOtF0y5FYUDdQh0tOfyo3cfhSo/edit?usp=sharing)
+    * Sign up [Github](https://github.com/) with a new account 
   * Workflow & Tools
     * Git / Github
     * [p5 web editor](https://editor.p5js.org/)

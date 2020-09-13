@@ -10,34 +10,43 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 * Lecture
   * Overview of the Class
   * Workflow & Tools
-  * Git / Github
-  * p5 web editor
+    * Git / Github
+  * [p5 web editor](https://editor.p5js.org/)
   * P5 web editor console
   * Recognizing errors
 * Exercise
-  * ...
+  * Drawing on a virtual paper [Google Jamboard](https://jamboard.google.com/)
 * Reading and Viewing
+  * p5js.org
   * Getting Started with p5.js
     * Chapter 2. Starting to Code
-  * p5js.org
+
 
 ### CLASS2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu
 * Lecture
-  * ...
+  * Programming Fundamentals
+    * values, types, expressions
+  * p5.js Basics
+    * Coordinate system
+    * Primitive shapes
+    * Colors (RGB Color Model)
+    * text()
 * Exercise
-  * ...
+  * Play with drawing functions in p5.js
 * Reading and Viewing
-  * ...
+  * [p5.js References](https://p5js.org/reference/)
+  * Getting Started with p5.js
+    * Chapter 3. Draw
+    * Chapter 4. Variables
+    * Appendix B. Order of Operations
+  * The Coding Train
+    * [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+    * 1 Introduction, 2 Drawing
+    * 2-3, 4 Errors & Console, Comment
 
 ### RECITATION | 9/18 Fri
-* Lecture
-  * Workflow & Tools
-  * Git / Github
-  * Intro to Computer Graphics
 * Exercise
-  * ...
-* Reading and Viewing
-  * ...
+  * Develop a static image with p5.js
 
 ## Course Information
 * Link to the [syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit?usp=sharing)

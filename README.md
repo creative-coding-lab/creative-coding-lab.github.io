@@ -10,7 +10,10 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 * Lecture
   * Overview of the Class
     * Join Google Classroom
-    * create your own documentation blog
+      * [Link to Section1/2: Moon]()
+      * [Link to Section3/4: Steele]()
+      * [Link to Section5/6: Cossovich]()
+    * Create your own documentation blog
     * Sign up with a new Github account 
   * Workflow & Tools
     * Git / Github
@@ -21,7 +24,6 @@ The syllabus and course schedule may be subject to change. Changes will be commu
   * p5js.org
   * Getting Started with p5.js
     * Chapter 2. Starting to Code
-
 
 ### CLASS2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu
 * Lecture

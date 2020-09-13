@@ -13,15 +13,15 @@ The syllabus and course schedule may be subject to change. Changes will be commu
       * [Link to Section1/2: Moon]()
       * [Link to Section3/4: Steele]()
       * [Link to Section5/6: Cossovich]()
-    * Create your own documentation blog
-    * Sign up with a new Github account 
+    * Create your own [Documentation Blog]()
+    * Sign up with a new [Github](https://github.com/) account 
   * Workflow & Tools
     * Git / Github
-  * [p5 web editor](https://editor.p5js.org/)
+    * [p5 web editor](https://editor.p5js.org/)
 * Exercise
-  * Drawing on a virtual paper [Google Jamboard](https://jamboard.google.com/)
+  * Drawing on a virtual paper with [Google Jamboard](https://jamboard.google.com/)
 * Reading and Viewing
-  * p5js.org
+  * [p5js.org](https://p5js.org/)
   * Getting Started with p5.js
     * Chapter 2. Starting to Code
 

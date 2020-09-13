@@ -9,11 +9,12 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 ### CLASS1 - Introduction to CCL - 9/14 Mon, 9/14 Tue
 * Lecture
   * Overview of the Class
+    * Join Google Classroom
+    * create your own documentation blog
+    * Sign up with a new Github account 
   * Workflow & Tools
     * Git / Github
   * [p5 web editor](https://editor.p5js.org/)
-  * P5 web editor console
-  * Recognizing errors
 * Exercise
   * Drawing on a virtual paper [Google Jamboard](https://jamboard.google.com/)
 * Reading and Viewing
@@ -27,6 +28,8 @@ The syllabus and course schedule may be subject to change. Changes will be commu
   * Programming Fundamentals
     * values, types, expressions
   * p5.js Basics
+    * P5 web editor console
+      * Recognizing errors
     * Coordinate system
     * Primitive shapes
     * Colors (RGB Color Model)
@@ -46,7 +49,7 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 
 ### RECITATION | 9/18 Fri
 * Exercise
-  * Develop a static image with p5.js
+  * Draw a static image with p5.js
 
 ## Course Information
 * Link to the [syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit?usp=sharing)

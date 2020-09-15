@@ -20,7 +20,7 @@ The syllabus and course schedule may be subject to change. Changes will be commu
   * Drawing on a virtual paper with [Google Jamboard](https://jamboard.google.com/)
 * Reading and Viewing
   * [p5js.org](https://p5js.org/)
-  * Getting Started with p5.js
+  * [Getting Started with p5.js](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=4333728)
     * Chapter 2. Starting to Code
 
 ### CLASS2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu
@@ -38,7 +38,7 @@ The syllabus and course schedule may be subject to change. Changes will be commu
   * Play with drawing functions in p5.js
 * Reading and Viewing
   * [p5.js References](https://p5js.org/reference/)
-  * Getting Started with p5.js
+  * [Getting Started with p5.js](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=4333728)
     * Chapter 3. Draw
     * Chapter 4. Variables
     * Appendix B. Order of Operations

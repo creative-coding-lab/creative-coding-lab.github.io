@@ -7,6 +7,8 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 
 ## Week 1
 ### CLASS1 - Introduction to CCLab - 9/14 Mon, 9/14 Tue
+* Class Notes
+  * [Introduction to CCLab](https://docs.google.com/presentation/d/1vzkvH9_DGgo17Az__aBpz2OWvWnZzHf0rgUerd_TfaM/edit?usp=sharing) - Section1(Moon)
 * Lecture
   * Overview of the Class
     * Join CCLab Slack Workspace and Google Classroom via [Invitation Codes](https://docs.google.com/document/d/1LFdLs601IZCXSo9cGq0AWcX0Z_hHZmDJupqbj5_z4tM/edit?usp=sharing).

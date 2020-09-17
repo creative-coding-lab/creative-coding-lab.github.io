@@ -41,8 +41,6 @@ The syllabus and course schedule are subject to change. Changes will be communic
   - Workflow & Tools
     - Slack
     - Google Classrom
-    - ~~Git / Github~~
-    - [p5 web editor](https://editor.p5js.org/)
 - Exercise
   - Drawing on a virtual paper with [Google Jamboard](https://jamboard.google.com/)
 - Reading and Viewing
@@ -53,15 +51,9 @@ The syllabus and course schedule are subject to change. Changes will be communic
 ### CLASS2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu
 
 - Lecture
-  - Programming Fundamentals
-    - values, types, expressions
+  - [Introduction to p5.js](https://docs.google.com/presentation/d/1JpTSR08wRDAsatrrgvnoMeeS2l4cebO-si-OZVT6EIU/edit?usp=sharing)
   - p5.js Basics
-    - P5 web editor console
-      - Recognizing errors
-    - Coordinate system
-    - Primitive shapes
-    - Colors (RGB Color Model)
-    - text()
+    - [p5 web editor](https://editor.p5js.org/)
 - Exercise
   - Play with drawing functions in p5.js
 - Reading and Viewing
@@ -72,7 +64,8 @@ The syllabus and course schedule are subject to change. Changes will be communic
     - Appendix B. Order of Operations
   - The Coding Train
     - [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-    - 1 Introduction, 2 Drawing
+    - 1 Introduction
+    - 2 Drawing
     - 2-3, 4 Errors & Console, Comment
 
 ### RECITATION | 9/18 Fri

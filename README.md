@@ -110,6 +110,7 @@ The syllabus and course schedule are subject to change. Changes will be communic
   - Appointment rules
     - To ensure that the instructor is available, schedule your appointment at least an hour ahead of time. Google Calendar will let you schedule it at the last minute, but the instructor may not see it or be available then.
     - Please note that all sections are following the same syllabus, so even if you cannot meet with your own instructor, feel free to sign up with another. If none of the times work for your schedule, please email your instructor for an appointment.
+
 ## Creative Coding Lab Fellows:
   - [Linda László](lll337@nyu.edu)
   - [Yinmiao (Demi) Li](yl4121@nyu.edu)

@@ -49,7 +49,7 @@ The syllabus and course schedule are subject to change. Changes will be communic
   - [Getting Started with p5.js](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=4333728)
     - Chapter 2. Starting to Code
 
-### CLASS2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu
+### CLASS2 - Introduction to p5.js - 9/16 Wed, 9/17 Thu
 
 - Lecture
   - [Introduction to p5.js](https://docs.google.com/presentation/d/1JpTSR08wRDAsatrrgvnoMeeS2l4cebO-si-OZVT6EIU/edit?usp=sharing) - Section1 (Moon)
@@ -72,7 +72,7 @@ The syllabus and course schedule are subject to change. Changes will be communic
 ### RECITATION | 9/18 Fri
 
 - Exercise
-  - Draw a static image with p5.js
+  - [Draw with Code](https://docs.google.com/presentation/d/1vx4bLvto7KLvzG8HcubVcrc4Qpv4NGzsgPmpkA-evis/edit?usp=sharing)
 
 # Course Information
 

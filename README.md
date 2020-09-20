@@ -7,7 +7,7 @@
     - [CLASS1 - Introduction to CCLab - 9/14 Mon, 9/14 Tue](#class1---introduction-to-cclab---914-mon-914-tue)
     - [CLASS2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu](#class2---intro-to-computer-graphics---916-wed-917-thu)
     - [RECITATION | 9/18 Fri](#recitation--918-fri)
-- [Course Information](#course-information)
+- [Sections](#sections)
   - [SECTION §1/2 – Moon](#section-12--moon)
   - [SECTION §3/4 – Oliver](#section-34--oliver)
   - [SECTION §5/6 – Rudi](#section-56--rudi)
@@ -24,12 +24,15 @@
   - [Course Overview and Learning Outcomes](#course-overview-and-learning-outcomes)
   - [Learning Outcomes](#learning-outcomes)
 
+
 ### Subject to Change Statement
 
 The syllabus and course schedule are subject to change. Changes will be communicated via email or Slack, and in Google Classroom. It is your responsibility to check email messages and course announcements to stay current in the online phase of the course.
 
 # Syllabus - Fall 2020
 (Reverse chronological order)
+
+[Syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit?usp=sharing)
 
 ## Week 1
 
@@ -74,9 +77,7 @@ The syllabus and course schedule are subject to change. Changes will be communic
 - Exercise
   - [Draw with Code](https://docs.google.com/presentation/d/1vx4bLvto7KLvzG8HcubVcrc4Qpv4NGzsgPmpkA-evis/edit?usp=sharing)
 
-# Course Information
-
-[Syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit?usp=sharing)
+# Sections
 
 ## SECTION §1/2 – Moon
 
@@ -91,8 +92,7 @@ The syllabus and course schedule are subject to change. Changes will be communic
 - Instructor: [Oliver Steele](ows1@nyu.edu)
 - Mondays and Wednesdays, 9:45am – 11:00am;
 - Fridays, 9:45am – 11:00am (recitation)
-- Mode: Online. Zoom meeting.
-- [Slides](https://drive.google.com/drive/folders/18UIs0775R-IxmyngyzBhT_igl3mrsBnB)
+- [Instructor notes](/instructor-notes/oliver/)
 
 ## SECTION §5/6 – Rudi
 

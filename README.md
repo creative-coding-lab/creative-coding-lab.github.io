@@ -5,7 +5,7 @@
 - [Syllabus - Fall 2020](#syllabus---fall-2020)
   - [Week 1](#week-1)
     - [CLASS1 - Introduction to CCLab - 9/14 Mon, 9/14 Tue](#class1---introduction-to-cclab---914-mon-914-tue)
-    - [CLASS2 - Intro to Computer Graphics - 9/16 Wed, 9/17 Thu](#class2---intro-to-computer-graphics---916-wed-917-thu)
+    - [CLASS2 - Introduction to p5.js - 9/16 Wed, 9/17 Thu](#class2---introduction-to-p5js---916-wed-917-thu)
     - [RECITATION | 9/18 Fri](#recitation--918-fri)
 - [Sections](#sections)
   - [SECTION §1/2 – Moon](#section-12--moon)

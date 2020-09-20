@@ -92,7 +92,7 @@ The syllabus and course schedule are subject to change. Changes will be communic
 - Instructor: [Oliver Steele](ows1@nyu.edu)
 - Mondays and Wednesdays, 9:45am – 11:00am;
 - Fridays, 9:45am – 11:00am (recitation)
-- [Instructor notes](/instructor-notes/oliver/)
+- [Instructor notes](/instructor-notes/oliver)
 
 ## SECTION §5/6 – Rudi
 

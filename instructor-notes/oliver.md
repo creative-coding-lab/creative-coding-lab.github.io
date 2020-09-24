@@ -1,7 +1,8 @@
 ---
+layout: posts
+title: Instructor Notes – Oliver
 ---
 
-# Instructor Notes – Oliver
 
 - Instructor: [Oliver Steele](ows1@nyu.edu)
 - Mondays and Wednesdays, 9:45am – 11:00am;

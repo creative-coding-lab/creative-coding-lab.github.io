@@ -1,0 +1,13 @@
+main:
+  - title: About
+    url: /
+  - title: Syllabus
+    url: /syllabus
+  - title: Help
+    url: /help
+  - title: Projects
+    url: /projects
+  - title: Schedule
+    url: /schedule
+  - title: Sections
+    url: /sections

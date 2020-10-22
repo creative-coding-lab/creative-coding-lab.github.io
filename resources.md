@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Help
+title: Resources
 ---
 
 ## Instructors and Office Hours

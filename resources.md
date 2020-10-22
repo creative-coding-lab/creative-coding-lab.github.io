@@ -13,7 +13,20 @@ title: Resources
 - [p5.js Reference](https://p5js.org/reference/)
 - [CCLab
   Cookbook](https://docs.google.com/document/d/1Y2A9jh5XxCojrMkIbzu2FROSv4Tl3izR-OERsgMzCZc/edit?usp=drive_web&ouid=112951101116018294463)
+
+## Tools
+
+### Online
+
+- [p5.js Web Editor](https://editor.p5js.org)
 - [JavaScript Tutor](http://www.pythontutor.com/javascript.html#mode=edit)
+- [OpenProcessing.org](https://www.openprocessing.org)
+- [Glitch](https://glitch.com)
+
+### Desktop Apps
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub Desktop](https://desktop.github.com/)
 
 ## Instructors and Office Hours
 

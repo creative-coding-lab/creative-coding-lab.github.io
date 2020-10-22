@@ -5,9 +5,9 @@ main:
     url: /projects
   - title: Resources
     url: /resources
-  - title: §1
+  - title: §1 – Moon
     url: /sections/section-moon
-  - title: §3
+  - title: §3 – Rudi
     url: /sections/section-oliver
-  - title: §5
+  - title: §5 – Oliver
     url: /sections/section-rudi

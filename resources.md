@@ -3,30 +3,10 @@ layout: posts
 title: Resources
 ---
 
-## References
+## Course Materials
 
-- [Getting Started with
-  P5.js](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=4333728)
-  (course text)
-- [MDN JavaScript Guides and
-  References](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- [p5.js Reference](https://p5js.org/reference/)
-- [CCLab
-  Cookbook](https://docs.google.com/document/d/1Y2A9jh5XxCojrMkIbzu2FROSv4Tl3izR-OERsgMzCZc/edit?usp=drive_web&ouid=112951101116018294463)
-
-## Tools
-
-### Online
-
-- [p5.js Web Editor](https://editor.p5js.org)
-- [JavaScript Tutor](http://www.pythontutor.com/javascript.html#mode=edit)
-- [OpenProcessing.org](https://www.openprocessing.org)
-- [Glitch](https://glitch.com)
-
-### Desktop Apps
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [GitHub Desktop](https://desktop.github.com/)
+See the [Course Materials section of the
+Syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit#bookmark=id.4vh2xmnvrsau).
 
 ## Instructors and Office Hours
 

@@ -3,6 +3,18 @@ layout: posts
 title: Resources
 ---
 
+## References
+
+- [Getting Started with
+  P5.js](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=4333728)
+  (course text)
+- [MDN JavaScript Guides and
+  References](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [p5.js Reference](https://p5js.org/reference/)
+- [CCLab
+  Cookbook](https://docs.google.com/document/d/1Y2A9jh5XxCojrMkIbzu2FROSv4Tl3izR-OERsgMzCZc/edit?usp=drive_web&ouid=112951101116018294463)
+- [JavaScript Tutor](http://www.pythontutor.com/javascript.html#mode=edit)
+
 ## Instructors and Office Hours
 
 ### Faculty

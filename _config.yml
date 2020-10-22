@@ -2,6 +2,7 @@
 # _config.local.yml.
 remote_theme: mmistakes/minimal-mistakes
 title: Creative Coding Lab
+logo: /assets/images/cclab-logo-transparent.png
 
 exclude:
   - README.md

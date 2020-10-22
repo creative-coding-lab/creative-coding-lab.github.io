@@ -2,6 +2,7 @@
 # file and _config.yml.
 theme: minimal-mistakes-jekyll
 title: Creative Coding Lab
+logo: /assets/images/cclab-logo-transparent.png
 
 exclude:
   - README.md

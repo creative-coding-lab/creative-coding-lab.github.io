@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Instructor Notes – Oliver
+title: Section 3 – Oliver
 ---
 
 

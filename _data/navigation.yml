@@ -5,5 +5,9 @@ main:
     url: /projects
   - title: Resources
     url: /resources
-  - title: Sections
-    url: /sections
+  - title: §1
+    url: /sections/section-moon/
+  - title: §3
+    url: /sections/section-oliver/
+  - title: §5
+    url: /sections/section-rudi/

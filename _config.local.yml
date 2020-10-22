@@ -1,6 +1,6 @@
-# Used by GitHub Pages. Sync changes except for the theme between this file and
-# _config.local.yml.
-remote_theme: mmistakes/minimal-mistakes
+# Used for local development. Sync changes except for the theme between this
+# file and _config.yml.
+theme: minimal-mistakes-jekyll
 title: Creative Coding Lab
 
 exclude:

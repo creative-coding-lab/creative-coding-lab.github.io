@@ -7,7 +7,5 @@ main:
     url: /resources
   - title: Projects
     url: /projects
-  - title: Schedule
-    url: /schedule
   - title: Sections
     url: /sections

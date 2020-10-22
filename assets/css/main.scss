@@ -1,0 +1,29 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+
+body, .masthead__menu-item {
+    font-family: Merriweather, Georgia, serif;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.site-title {font-size: 28px;}
+
+.site-navigation {
+    font-size: 16x;
+    font-variant: small-caps;
+}
+
+.greedy-nav a {
+    color: #5f676d;
+}
+
+ul li {
+    margin-bottom: 0;
+}

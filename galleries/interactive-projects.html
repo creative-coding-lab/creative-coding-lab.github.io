@@ -5,22 +5,23 @@ permalink: galleries/interactive-project
 ---
 
 <div class="ui cards">
-{% for project in site.data.interactive-projects %}
-<div class="ui card">
+{% assign projects = site.data.interactive-projects | sample: 100 %}
+{% for project in projects %}
+  <div class="ui card">
     {% if project.screenshot %}
     <img class="image" src="{{ project.screenshot }}" />
     {% endif %}
     <div class="content">
-        <a class="header">{{ project.title }}</a>
-        <div class="meta">By {{ project.authors | replace: ", ", " and " }}</div>
-        <div class="description">
-            {{ project.description }}
-        </div>
+      <a class="header">{{ project.title }}</a>
+      <div class="meta">By {{ project.authors | replace: ", ", " and " }}</div>
+      <div class="description">
+        {{ project.description }}
+      </div>
     </div>
     <div class="extra content">
-        <a class="ui primary button" href="{{ project.url }}">Play!</a>
-        <a href="{{ project.repo}}">Source</a>
+      <a class="ui primary button" href="{{ project.url }}">Play!</a>
+      <a href="{{ project.repo}}">Source</a>
     </div>
-    </div>
-{% endfor %}
+  </div>
+  {% endfor %}
 </div>

@@ -1,0 +1,16 @@
+---
+layout: posts
+title: Interactive Projects
+permalink: galleries/interactive-project
+---
+
+{% for project in site.data.interactive-projects %}
+<h2>{{ project.title }}</h2>
+<p class="authors">By {{ project.authors }}</p>
+<p class="description">{{ project.description }}</p>
+<p class="repo"><a href="{{ project.repo}}">Source</a></p>
+<a href="{{ project.url }}">Play!</a>
+{% if project.screenshot %}
+<img class="screenshot" src="{{ project.screenshot }}" />
+{% endif %}
+{% endfor %}

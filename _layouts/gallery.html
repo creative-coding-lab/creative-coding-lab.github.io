@@ -1,0 +1,41 @@
+---
+---
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+  <style>
+    .ui.container {
+      margin-top: 100px;
+    }
+
+    .ui.card .image {
+      height: 100px;
+    }
+  </style>
+  </head>
+  
+  <body>
+    {% include_cached skip-links.html %}
+    {% include_cached browser-upgrade.html %}
+    {% include_cached masthead.html %}
+  
+    <div class="ui container">
+    {{ content }}
+  </div>
+  
+  <div id="footer" class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include_cached footer.html %}
+    </footer>
+  </div>
+  
+  {% include scripts.html %}
+  </body>
+  
+  </html>

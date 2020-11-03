@@ -1,16 +1,26 @@
 ---
-layout: posts
+layout: gallery
 title: Interactive Projects
 permalink: galleries/interactive-project
 ---
 
+<div class="ui cards">
 {% for project in site.data.interactive-projects %}
-<h2>{{ project.title }}</h2>
-<p class="authors">By {{ project.authors }}</p>
-<p class="description">{{ project.description }}</p>
-<p class="repo"><a href="{{ project.repo}}">Source</a></p>
-<a href="{{ project.url }}">Play!</a>
-{% if project.screenshot %}
-<img class="screenshot" src="{{ project.screenshot }}" />
-{% endif %}
+<div class="ui card">
+    {% if project.screenshot %}
+    <img class="image" src="{{ project.screenshot }}" />
+    {% endif %}
+    <div class="content">
+        <a class="header">{{ project.title }}</a>
+        <div class="meta">By {{ project.authors | replace: ", ", " and " }}</div>
+        <div class="description">
+            {{ project.description }}
+        </div>
+    </div>
+    <div class="extra content">
+        <a class="ui primary button" href="{{ project.url }}">Play!</a>
+        <a href="{{ project.repo}}">Source</a>
+    </div>
+    </div>
 {% endfor %}
+</div>

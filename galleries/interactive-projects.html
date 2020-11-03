@@ -5,8 +5,8 @@ permalink: galleries/interactive-projects
 ---
 
 <div class="ui cards">
-{% assign projects = site.data.interactive-projects | sample: 100 %}
-{% for project in projects %}
+  {% assign projects = site.data.interactive-projects | sample: 100 %}
+  {% for project in projects %}
   <div class="ui card">
     {% if project.screenshot %}
     <img class="image" src="{{ project.screenshot }}" />
@@ -19,8 +19,11 @@ permalink: galleries/interactive-projects
       </div>
     </div>
     <div class="extra content">
-      <a class="ui primary button" href="{{ project.url }}" target="play">Play!</a>
-      <a href="{{ project.repo}}" target="source">Source</a>
+        <a class="ui primary button" href="{{ project.url }}" target="play">
+          <i class="play icon"></i>
+          Play!
+        </a>
+        <a href="{{ project.repo}}" target="source"><i class="github icon"></i>Source</a>
     </div>
   </div>
   {% endfor %}

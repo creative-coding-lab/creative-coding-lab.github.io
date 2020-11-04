@@ -9,6 +9,7 @@
 - title: PB & J
   authors: Anna, Jyotsna
   section: 3
+  jamboard_page: 13
   description: The player will collect as much peanut butter, jelly, and bread, to create the tallest possible PB&J sandwich.
   screenshot: https://github.com/JyotsnaKaramdas/PB-J-Interactive-Project/raw/main/images/Screen%20Shot%202020-11-02%20at%2010.41.52%20PM.png?raw=true
   repo: https://github.com/JyotsnaKaramdas/PB-J-Interactive-Project
@@ -48,6 +49,7 @@
 - title: Topline Pennant
   authors: Helen, Cole
   section: 3
+  jamboard_page: 14
   description:
   screenshot:
   repo: https://github.com/nacoleycole/Group-Project-1

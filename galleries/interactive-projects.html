@@ -25,14 +25,17 @@ permalink: galleries/interactive-projects
       {% endif %}
     </div>
     <div class="extra content">
-        <a class="ui primary button" href="{{ project.url }}" target="play">
+        <a class="ui primary button" href="{{ project.url }}" target="play" title="Interact with the project">
           <i class="play icon"></i>
-          Play!
+          Run
         </a>
         {% if project.jamboard_page %}
         <a class="ui button"
           href="https://jamboard.google.com/d/1SELm2vXs0GV0iD3FeU3ytZO8rkB3vCrr3xXV1j1_XFw/viewer?f={{ project.jamboard_page }}"
-          target="jamboard">Comment</a>
+          title="Leave a sticky note on Jamboard"
+          target="jamboard">
+          <i class="comment icon"></i>
+          Comment</a>
         {% endif %}
         {% if project.repo %}
           <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Source</a>

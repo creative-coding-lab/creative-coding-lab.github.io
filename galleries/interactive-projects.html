@@ -5,7 +5,7 @@ permalink: galleries/interactive-projects
 ---
 
 <div id="shuffled" class="ui cards">
-  {% assign projects = site.data.interactive-projects | sample: 100 %}
+  {% assign projects = site.data.interactive-projects %}
   {% for project in projects %}
   {% capture default_title %}{{ project.authors }}’s Project{% endcapture %}
   <div class="ui card">

@@ -18,6 +18,11 @@ permalink: galleries/interactive-projects
       <div class="description">
         {{ project.description }}
       </div>
+      {% if project.instructions %}
+      <div class="description">
+        <b>Instructions</b>: {{ project.instructions }}
+      </div>
+      {% endif %}
     </div>
     <div class="extra content">
         <a class="ui primary button" href="{{ project.url }}" target="play">

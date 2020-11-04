@@ -7,13 +7,14 @@ permalink: galleries/interactive-projects
 <div class="ui cards">
   {% assign projects = site.data.interactive-projects | sample: 100 %}
   {% for project in projects %}
+  {% capture default_title %}{{ project.authors }}’s Project{% endcapture %}
   <div class="ui card">
     {% if project.screenshot %}
     <img class="image" src="{{ project.screenshot }}" />
     {% endif %}
     <div class="content">
-      <a class="header">{{ project.title }}</a>
-      <div class="meta">By {{ project.authors | replace: ", ", " and " }}</div>
+      <a class="header">{{ project.title | default: default_title }}</a>
+      <div class="meta">By {{ project.authors | replace: ", ", " & " }}</div>
       <div class="description">
         {{ project.description }}
       </div>
@@ -23,7 +24,12 @@ permalink: galleries/interactive-projects
           <i class="play icon"></i>
           Play!
         </a>
-        <a href="{{ project.repo}}" target="source"><i class="github icon"></i>Source</a>
+        {% if project.jamboard_page %}
+        <a class="ui button"
+          href="https://jamboard.google.com/d/1SELm2vXs0GV0iD3FeU3ytZO8rkB3vCrr3xXV1j1_XFw/viewer?f={{ project.jamboard_page }}"
+          target="jamboard">Comment</a>
+        {% endif %}
+        <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Source</a>
     </div>
   </div>
   {% endfor %}

@@ -4,7 +4,7 @@ title: Interactive Projects
 permalink: galleries/interactive-projects
 ---
 
-<div class="ui cards">
+<div id="shuffled" class="ui cards">
   {% assign projects = site.data.interactive-projects | sample: 100 %}
   {% for project in projects %}
   {% capture default_title %}{{ project.authors }}’s Project{% endcapture %}
@@ -29,8 +29,17 @@ permalink: galleries/interactive-projects
           href="https://jamboard.google.com/d/1SELm2vXs0GV0iD3FeU3ytZO8rkB3vCrr3xXV1j1_XFw/viewer?f={{ project.jamboard_page }}"
           target="jamboard">Comment</a>
         {% endif %}
-        <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Source</a>
+        {% if project.repo %}
+          <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Source</a>
+        {% endif %}
     </div>
   </div>
   {% endfor %}
 </div>
+
+<script type="text/javascript">
+  {
+    let elements = document.getElementById("shuffled");
+    console.log(elements);
+  }
+</script>

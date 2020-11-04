@@ -1,6 +1,7 @@
 - title: Point and Go!
   authors: Oona, Mike
   section: 3
+  jamboard_page: 15
   description: With inspiration from travelling mood boards, travel journals, and colorful world maps, this project allows the user to "travel" (or just get future vacation inspiration) on their laptop screen.
   screenshot:
   repo: https://github.com/piinkoon/interactive-project
@@ -15,12 +16,14 @@
 - title: Fishing for Your Dreams
   authors: Victoria, Ethan
   section: 3
+  jamboard_page: 17
   description: Equally serene and minimal, our project hopes to invoke an impactful calmness byways through the simple yet quirky interaction within it.
   screenshot:
   repo: https://github.com/StarfishSunset/Fishing-for-Our-Dreams
   url: https://StarfishSunset.github.io/Fishing-for-Our-Dreams
 - title: Don’t Let Me Down
-  authors: Tian Jin, Yuyang Cai
+  authors: Jyoti, Cara
+  jamboard_page: 16
   section: 3
   description: An interactive game of launching a ball and killing the virus.
   screenshot: https://github.com/Koapush/project2/raw/master/screenshot.png
@@ -29,6 +32,7 @@
 - title: Flying With Kiki
   authors: Vivianna, Kevin
   section: 3
+  jamboard_page: 19
   description: A side scroller game based on the Studio Ghibli film "Kiki's Delivery Service".
   screenshot: https://github.com/vkm9594/flying-with-kiki/raw/master/images/Screenshot.png
   repo: https://github.com/vkm9594/flying-with-kiki
@@ -36,6 +40,7 @@
 - title: CyberDash
   authors: Madi, Kathryn
   section: 3
+  jamboard_page: 18
   description: Problem solving game or rhythm game, where the user interacts with objects in order to produce music and visualization where this interaction allows the game to progress.
   screenshot:
   repo: https://github.com/MadisonD2024/Project-II-Code
@@ -51,6 +56,7 @@
   authors: Hubert, Jarah
   section: 3
   description:
+  jamboard_page: 20
   screenshot: https://github.com/hubertYumengLu/Project-II/raw/master/assets/images/Screenshot%202020-11-02%20at%2010.09.14.png?raw=true
   repo: https://github.com/hubertYumengLu/Project-II
   url: https://hubertYumengLu.github.io/Project-II

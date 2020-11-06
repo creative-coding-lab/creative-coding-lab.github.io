@@ -7,12 +7,12 @@
   screenshot: https://github.com/piinkoon/interactive-project/raw/master/assets/map.JPG
   repo: https://github.com/piinkoon/interactive-project
   url: https://piinkoon.github.io/interactive-project
-- title: PB & J
+- title: Cloudy With A Chance of PB&J
   authors: Anna, Jyotsna
   section: 3
   jamboard_page: 13
-  description: Collect as much peanut butter, jelly, and bread, to create the tallest possible PB&J sandwich.
-  instructions: Use the mouse to slide a piece of bread horizontally across the screen. The player will then press the 'SHIFT' key which causes a condiment to fall. With every press, 1-3 condiments will fall and the player will try to collect as much peanut butter, jelly, and bread, to create the tallest possible PB&J sandwich.
+  description: Cloudy With A Chance of PB&J is a key interactive animation
+  instructions: Press the SHIFT key to see a 'storm' of peanut butter, jelly, and bread.
   screenshot: https://github.com/JyotsnaKaramdas/PB-J-Interactive-Project/raw/main/images/Screen%20Shot%202020-11-02%20at%2010.41.52%20PM.png?raw=true
   repo: https://github.com/JyotsnaKaramdas/PB-J-Interactive-Project
   url: https://JyotsnaKaramdas.github.io/PB-J-Interactive-Project
@@ -21,16 +21,16 @@
   section: 3
   jamboard_page: 17
   description: Equally serene and minimal, our project hopes to invoke an impactful calmness byways through the simple yet quirky interaction within it.
-  instructions: "Play with the slider. Click the mouse to cast. Click a key to real. Enjoy"
-  screenshot:
+  instructions: "Use the mouse to change the sky. Use the left and right arrows to move the boat. Try moving them simultanesouly at the same speed, following each other. Enjoy c:"
+  screenshot: https://raw.githubusercontent.com/StarfishSunset/Fishing-for-Our-Dreams/master/screen.png
   repo: https://github.com/StarfishSunset/Fishing-for-Our-Dreams
   url: https://StarfishSunset.github.io/Fishing-for-Our-Dreams
-- title: Don’t Let Me Down
+- title: Hit the Virus
   authors: Jyoti, Cara
   jamboard_page: 16
   section: 3
-  description: An interactive game of launching a ball and killing the virus.
-  instructions: Press the Space key to launch the ball. Bounce the ball to hit the virus. Win if you hit the virus 3 times out of 5. Lose if you let the ball down.
+  description: This is an interactive game of launching the ball to killing the virus. Under the general background of Covid-19, humans as a community make every effort to fight against the virus. By consistant trials, we are believed to win the game and to conquer our current difficulties:D
+  instructions: Press the Space key to launch the ball. Bounce the ball to hit the virus. Win if you successfully kill the virus. Lose if you run out of 9 chances.
   screenshot: https://github.com/Koapush/project2/raw/master/screenshot.png
   repo: https://github.com/Koapush/project2
   url: https://Koapush.github.io/project2
@@ -38,7 +38,7 @@
   authors: Vivianna, Kevin
   section: 3
   jamboard_page: 19
-  description: A side scroller game based on the Studio Ghibli film "Kiki's Delivery Service".
+  description: This code is a side scroller game based on the Studio Ghibli film "Kiki's Delivery Service". It is a collaborative project for Creative Coding Lab at NYU Shanghai.
   instructions: Press space to begin the game. Make sure to avoid the obstacles coming at Kiki!
   screenshot: https://github.com/vkm9594/flying-with-kiki/raw/master/images/Screenshot.png
   repo: https://github.com/vkm9594/flying-with-kiki
@@ -47,7 +47,7 @@
   authors: Madi, Kathryn
   section: 3
   jamboard_page: 18
-  description: Problem solving game or rhythm game, where the user interacts with objects in order to produce music and visualization where this interaction allows the game to progress.
+  description: In our game, a flying car races against the clock to deliver packages in a futuristic city.
   instructions: Click on the packages to deliver as many as you can before the time runs out!
   screenshot: https://github.com/MadisonD2024/Project-II-Code/raw/master/Gamepicture.png
   repo: https://github.com/MadisonD2024/Project-II-Code

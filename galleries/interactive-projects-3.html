@@ -1,0 +1,46 @@
+---
+layout: gallery
+title: Interactive Projects
+permalink: galleries/interactive-projects-3
+---
+
+<div id="shuffled" class="ui cards">
+    {% assign projects = site.data.interactive-projects | sample: 100 %}
+    {% for project in projects %}
+    {% unless project.section == 3 %}{% continue %}{% endunless %}
+    {% capture default_title %}{{ project.authors }}’s Project{% endcapture %}
+    <div class="ui card">
+        {% if project.screenshot %}
+        <img class="image" src="{{ project.screenshot }}" />
+        {% endif %}
+        <div class="content">
+            <a class="header">{{ project.title | default: default_title }}</a>
+            <div class="meta">By {{ project.authors | replace: ", ", " & " }}</div>
+            <div class="description">
+                {{ project.description }}
+            </div>
+            {% if project.instructions %}
+            <div class="description">
+                <b>Instructions</b>: {{ project.instructions }}
+            </div>
+            {% endif %}
+        </div>
+        <div class="extra content">
+            <a class="ui primary button" href="{{ project.url }}" target="play" title="Interact with the project">
+                <i class="play icon"></i>
+                Run
+            </a>
+            {% if project.jamboard_page %}
+            <a class="ui button"
+                href="https://jamboard.google.com/d/1SELm2vXs0GV0iD3FeU3ytZO8rkB3vCrr3xXV1j1_XFw/viewer?f={{ project.jamboard_page }}"
+                title="Leave a sticky note on Jamboard" target="jamboard">
+                <i class="comment icon"></i>
+                Comment</a>
+            {% endif %}
+            {% if project.repo %}
+            <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Source</a>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+</div>

@@ -59,9 +59,9 @@
   description: A colorful and visually stimulating program which are accompanied by calming piano harmony when the user presses the individual squares.
   instructions: The square are activated upon mouse press and the small squares within changes color, making the illusion that it is scaling bigger and smaller in a very fast pace.
   screenshot: /assets/images/interactive-project/clicktilez.png
-  repo: https://github.com/nacoleycole/Group-Project-1
-  url: https://nacoleycole.github.io/Group-Project-1
-- title: Interactive Music Director
+  repo: https://github.com/nacoleycole/Group-Project---Helen-Cole
+  url: https://nacoleycole.github.io/Group-Project---Helen-Cole/
+- title: Music Conductor
   authors: Hubert, Jarah
   section: 3
   description: Become the conductor of Barcarole! In this demo game you can lead the musicians and their sound by simply waving your baton.

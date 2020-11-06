@@ -52,12 +52,13 @@
   screenshot: https://github.com/MadisonD2024/Project-II-Code/raw/master/Gamepicture.png
   repo: https://github.com/MadisonD2024/Project-II-Code
   url: https://MadisonD2024.github.io/Project-II-Code
-- title: Topline Pennant
+- title: Clicktilez
   authors: Helen, Cole
   section: 3
   jamboard_page: 14
-  description:
-  screenshot:
+  description: A colorful and visually stimulating program which are accompanied by calming piano harmony when the user presses the individual squares.
+  instructions: The square are activated upon mouse press and the small squares within changes color, making the illusion that it is scaling bigger and smaller in a very fast pace.
+  screenshot: /assets/images/interactive-project/clicktilez.png
   repo: https://github.com/nacoleycole/Group-Project-1
   url: https://nacoleycole.github.io/Group-Project-1
 - title: Interactive Music Director

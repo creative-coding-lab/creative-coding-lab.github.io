@@ -29,14 +29,6 @@ permalink: galleries/interactive-projects
           <i class="play icon"></i>
           Run
         </a>
-        {% if project.jamboard_page %}
-        <a class="ui button"
-          href="https://jamboard.google.com/d/1SELm2vXs0GV0iD3FeU3ytZO8rkB3vCrr3xXV1j1_XFw/viewer?f={{ project.jamboard_page }}"
-          title="Leave a sticky note on Jamboard"
-          target="jamboard">
-          <i class="comment icon"></i>
-          Comment</a>
-        {% endif %}
         {% if project.repo %}
           <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Source</a>
         {% endif %}

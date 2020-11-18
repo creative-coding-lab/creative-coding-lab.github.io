@@ -1,0 +1,6 @@
+{
+    "[scss]": {
+        "editor.formatOnSave": false
+    },
+    "jekyll-run.commandLineArguments": "--config _config.local.yml"
+}

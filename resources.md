@@ -3,6 +3,16 @@ layout: posts
 title: Resources
 ---
 
+## References
+
+* [p5.js Reference](https://p5js.org/reference/)
+* [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+## Templates
+
+* [GitHub p5.js template](https://github.com/osteele/p5-template)
+* [Glitch p5.js template](https://glitch.com/edit/#!/cclab-p5js-template?path=README.md%3A1%3A0)
+
 ## Course Materials and Cookbook
 
 See the [Course Materials section of the

@@ -7,6 +7,8 @@ title: Resources
 
 * [p5.js Reference](https://p5js.org/reference/)
 * [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+  * [Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  * [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
 ## Templates
 
@@ -22,7 +24,7 @@ Syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jr
 Cookbook](https://docs.google.com/document/d/1Y2A9jh5XxCojrMkIbzu2FROSv4Tl3izR-OERsgMzCZc/edit?usp=drive_web&ouid=112951101116018294463).
 A coding cookbook contains recipes, organized by task.
 
-[OpenProcessing Tutorials](https://www.notion.so/55581dbef83f40e3a386ddc6be1bbee8?v=6cbd3221f9ca493781875887b169abca) is a set of step-by-step examples of how to write code that performs various functions or illustrates various techniques.
+[OpenProcessing Tutorials](https://www.notion.so/55581dbef83f40e3a386ddc6be1bbee8?v=6cbd3221f9ca493781875887b169abca) is a set of step-by-step examples that illustrate various techniques.
 
 ## Online Tools
 

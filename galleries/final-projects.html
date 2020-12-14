@@ -16,11 +16,12 @@ permalink: galleries/final-projects
 <div id="shuffled" class="ui cards">
   {% assign projects = site.data.final-projects %}
   {% for project in projects %}
+  {% if project.omit %}{% continue %}{% endif %}
   <div class="ui card">
-    {% if project.omit %}{% continue %}{% endif %}
     {% if project.screenshot %}
     <img class="image" src="/assets/images/final-projects/{{ project.screenshot }}" />
     {% endif %}
+
     <div class="content">
       <a class="header">{{ project.title | default: default_title }}</a>
       <div class="meta">By {{ project.authors | replace: ", ", " & " }}</div>
@@ -33,6 +34,7 @@ permalink: galleries/final-projects
       </div>
       {% endif %}
     </div>
+
     <div class="extra content">
       {% if project.show_url %}
       <a class="ui primary button" href="{{ project.show_url }}" target="play" title="Interact with the project">
@@ -41,9 +43,13 @@ permalink: galleries/final-projects
       </a>
       {% endif %}
       {% if project.code_url %}
-      <a href="{{ project.code_url }}" target="source"><i class="github icon"></i>Code</a>
+      <a href="{{ project.code_url }}" target="source">
+        <i class="github icon"></i>
+        Code
+      </a>
       {% endif %}
-    </div>
-  </div>
+    </div> <!-- .extra.content -->
+
+  </div> <!-- .ui.card -->
   {% endfor %}
-</div>
+</div> <!-- .ui.card -->

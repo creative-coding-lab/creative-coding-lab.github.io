@@ -54,7 +54,7 @@
   section: 3
   description: A first-person gallery, using our favorites pictures that we have taken
   instructions:
-  screenshot: mi-perspective-png
+  screenshot: mi-perspective.png
   repo: https://github.com/ealescent/Project-IV.-M-I-Perspective
   url: https://ealescent.github.io/Project-IV.-M-I-Perspective/
 

@@ -8,6 +8,7 @@ permalink: galleries/final-projects
   {% assign projects = site.data.final-projects %}
   {% for project in projects %}
   <div class="ui card">
+    {% if project.omit %}{% continue %}{% endif %}
     {% if project.screenshot %}
     <img class="image" src="/assets/images/final-projects/{{ project.screenshot }}" />
     {% endif %}
@@ -24,14 +25,14 @@ permalink: galleries/final-projects
       {% endif %}
     </div>
     <div class="extra content">
-      {% if project.url %}
-      <a class="ui primary button" href="{{ project.url }}" target="play" title="Interact with the project">
+      {% if project.show_url %}
+      <a class="ui primary button" href="{{ project.show_url }}" target="play" title="Interact with the project">
         <i class="play icon"></i>
         Show
       </a>
       {% endif %}
-      {% if project.repo %}
-      <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Code</a>
+      {% if project.code_url %}
+      <a href="{{ project.code_url }}" target="source"><i class="github icon"></i>Code</a>
       {% endif %}
     </div>
   </div>

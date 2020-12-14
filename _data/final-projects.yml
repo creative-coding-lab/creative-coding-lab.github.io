@@ -7,8 +7,8 @@
     projects. Move your head to control a ball, and touch off to see our all way
     long.
   screenshot: all-way-long.png
-  repo: https://github.com/koapush/final-project
-  url: https://all-way-long.vercel.app
+  code_url: https://github.com/koapush/final-project
+  show_url: https://all-way-long.vercel.app
 
 - title: NaNa
   authors: Anna & Oona
@@ -18,8 +18,8 @@
     top singles, and famous artists-- from the 1960s to today.
   instructions:
   screenshot:
-  repo: https://glitch.com/~nana-final-project
-  url: https://nana-final-project.glitch.me
+  code_url: https://glitch.com/~nana-final-project
+  show_url: https://nana-final-project.glitch.me
 
 - title: Mystic Poems
   authors: Helen & Cole
@@ -29,8 +29,8 @@
     of visualization based on some of his poems.
   instructions: Drag mouse to read Rumi’s poetry
   screenshot: mystic-poems.png
-  repo: https://glitch.com/~spring-thirsty-market
-  url: https://spring-thirsty-market.glitch.me
+  code_url: https://glitch.com/~spring-thirsty-market
+  show_url: https://spring-thirsty-market.glitch.me
 
 - title: Be the Real Conductor
   authors: Hubert & Jarah
@@ -40,12 +40,10 @@
     interaction with visual interaction, in the form of the computer capturing
     user’s poses and responding accordingly.
   instructions: >
-    Follow mouse movements according to the tutorial screen; additionally to
-    other points you provide in the feedback, you can simply write ( ex. I see
-    this / I don't see this).
+    Follow mouse movements according to the tutorial screen.
   screenshot: be-the-real-conductor.png
-  repo: https://github.com/hubertyumenglu/Project-II
-  url: https://hubertyumenglu.github.io/Project-II/
+  code_url: https://github.com/hubertyumenglu/Project-II
+  show_url: https://hubertyumenglu.github.io/Project-II/
 
 - title: KORE
   authors: Vivianna
@@ -54,11 +52,9 @@
     Once upon a time Persephone was known as Kore. In this project, there will
     be interactive features that allow the user to grow a tree through sound
     classification and mouse clicking. Enjoy the music and have a relaxing time.
-    The instructions are in my project. Thank you!
-  # instructions: Click on the canvas to see the tree grow
   screenshot: kore.png
-  repo: https://github.com/vkm9594/final-project-kore
-  url: https://vkm9594.github.io/final-project-kore/
+  code_url: https://github.com/vkm9594/final-project-kore
+  show_url: https://vkm9594.github.io/final-project-kore/
 
 - title: M(I) Perspective
   authors: Vicky & Ethan
@@ -66,25 +62,30 @@
   description: A first-person gallery, using our favorites pictures that we have taken
   instructions:
   screenshot: mi-perspective.png
-  repo: https://github.com/ealescent/Project-IV.-M-I-Perspective
-  url: https://ealescent.github.io/Project-IV.-M-I-Perspective/
+  code_url: https://github.com/ealescent/Project-IV.-M-I-Perspective
+  show_url: https://ealescent.github.io/Project-IV.-M-I-Perspective/
 
 - title: Bad Team
   authors: Kevin
   section: 3
-  description: I want to explore more random object generations along with a lot of user interactions.
+  description: >
+    I want to explore more random object generations along with a lot of user
+    interactions.
   instructions:
   screenshot: bad-team.png
-  repo: https://github.com/kd-potato/CCLAB-Flower
-  url: https://kd-potato.github.io/CCLAB-Flower/p5-template-main/
+  code_url: https://github.com/kd-potato/CCLAB-Flower
+  show_url: https://kd-potato.github.io/CCLAB-Flower/p5-template-main/
 
 - title: Target
   authors: Jyotsna
   section: 3
-  description: User will use hand gestures through motion detection to either collect or break an objects using hand gestures.
+  description: >
+    User will use hand gestures through motion detection to either collect or
+    break an objects using hand gestures.
+  omit: true
   instructions:
   screenshot:
-  repo:
+  code_url:
   url:
 
 - title: Perfect Pitch Test
@@ -96,8 +97,8 @@
     environment. Then, type ENTER to start the game!"
   # instructions: Type enter to start the game and go to the next level. Move your hands to generate the sounds. Please try to mimic the music example you hear. You can press “play the music” button on the top left corner to replay the example music (we have not finished level 2 and level 3)
   screenshot: perfect-pitch-test.png
-  repo: https://glitch.com/~finalproject-kathryn-madi-2020
-  url: https://finalproject-kathryn-madi-2020.glitch.me/
+  code_url: https://glitch.com/~finalproject-kathryn-madi-2020
+  show_url: https://finalproject-kathryn-madi-2020.glitch.me/
 
 - title: Point & Go! 2.0
   authors: Mike
@@ -108,5 +109,5 @@
     city chosen compared to other cities.
   instructions: Click in the different cities and explore all that each page has to offer.
   screenshot: point-and-go.png
-  repo: https://github.com/mikezuk/point-go-2.0
-  url: https://point-and-go-2.vercel.app
+  code_url: https://github.com/mikezuk/point-go-2.0
+  show_url: https://point-and-go-2.vercel.app

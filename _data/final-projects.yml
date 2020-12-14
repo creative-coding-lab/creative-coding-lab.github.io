@@ -2,15 +2,20 @@
   authors: Cara & Jyoti
   section: 3
   description:
-  instructions: The idea is to present a journey of Creative Coding Lab in terms of four projects. Move your head to control a ball, and touch off to see our all way long.
+  instructions: >
+    The idea is to present a journey of Creative Coding Lab in terms of four
+    projects. Move your head to control a ball, and touch off to see our all way
+    long.
   screenshot:
   repo: https://github.com/koapush/final-project
-  url: https://koapush.github.io/final-project
+  url: https://all-way-long.vercel.app
 
 - title: NaNa
   authors: Anna & Oona
   section: 3
-  description: Interactive data visualization of the popularity of music from the 1950s to the present day
+  description: >
+    An interactive visualization of the popularity of music-- including genres,
+    top singles, and famous artists-- from the 1960s to today.
   instructions:
   screenshot:
   repo: https://glitch.com/~nana-final-project
@@ -19,8 +24,14 @@
 - title: Be the Real Conductor
   authors: Hubert & Jarah
   section: 3
-  description: Based on project 2, this project goes further by replacing the mouse interaction with visual interaction, in the form of the computer capturing user’s poses and responding accordingly.
-  instructions: Follow mouse movements according to the tutorial screen; additionally to other points you provide in the feedback, you can simply write ( ex. I see this / I don't see this).
+  description: >
+    Based on project 2, this project goes further by replacing the mouse
+    interaction with visual interaction, in the form of the computer capturing
+    user’s poses and responding accordingly.
+  instructions: >
+    Follow mouse movements according to the tutorial screen; additionally to
+    other points you provide in the feedback, you can simply write ( ex. I see
+    this / I don't see this).
   screenshot:
   repo: https://github.com/hubertyumenglu/Project-II
   url: https://hubertyumenglu.github.io/Project-II/
@@ -28,8 +39,12 @@
 - title: KORE
   authors: Vivianna
   section: 3
-  description: A way for people to wind down and have a relaxing time. It is based it off the Greek Goddess Persephone (AKA Kore), where the user grows and cuts plants using hand motions.
-  instructions: Click on the canvas to see the tree grow
+  description: >
+    Once upon a time Persephone was known as Kore. In this project, there will
+    be interactive features that allow the user to grow a tree through sound
+    classification and mouse clicking. Enjoy the music and have a relaxing time.
+    The instructions are in my project. Thank you!
+  # instructions: Click on the canvas to see the tree grow
   screenshot:
   repo: https://github.com/vkm9594/final-project-kore
   url: https://vkm9594.github.io/final-project-kore/
@@ -49,31 +64,36 @@
   description: I want to explore more random object generations along with a lot of user interactions.
   instructions:
   screenshot:
-  repo:
-  url:
+  repo: https://github.com/kd-potato/CCLAB-Flower
+  # url: https://kd-potato.github.io/CCLAB-Flower/
 
 - title: Target
   authors: Jyotsna
   section: 3
-  description: User will use hands gestures through motion detection to either collect or break an objects using hand gestures.
+  description: User will use hand gestures through motion detection to either collect or break an objects using hand gestures.
   instructions:
   screenshot:
   repo:
   url:
 
-- title: Musical Movement
+- title: Perfect Pitch Test
   authors: Madi & Kathryn
   section: 3
-  description: An interactive piece where the player can use their movements (using the camera) to create music as well as a visualization.
-  instructions: Type enter to start the game and go to the next level. Move your hands to generate the sounds. Please try to mimic the music example you hear. You can press “play the music” button on the top left corner to replay the example music (we have not finished level 2 and level 3)
+  description: >
+    Listen to the music and use your right hand to recreate the sound! Tip:
+    Stand back to show your upper body in the camera and play in a good light
+    environment. Then, type ENTER to start the game!"
+  # instructions: Type enter to start the game and go to the next level. Move your hands to generate the sounds. Please try to mimic the music example you hear. You can press “play the music” button on the top left corner to replay the example music (we have not finished level 2 and level 3)
   screenshot:
-  repo: https://glitch.com/~careful-mammoth-teal
-  url: https://careful-mammoth-teal.glitch.me
+  repo: https://glitch.com/~finalproject-kathryn-madi-2020
+  url: https://finalproject-kathryn-madi-2020.glitch.me/
 
 - title: Mystic Poems
   authors:
   section: 3
-  description: We both love the verses of the mystic poet Rumi, so we want to make a book of visualization based on some of his poems.
+  description: >
+    We both love the verses of the mystic poet Rumi, so we want to make a book
+    of visualization based on some of his poems.
   instructions: Drag mouse to read Rumi’s poetry
   screenshot:
   repo: https://glitch.com/~remix-of-hori
@@ -82,7 +102,10 @@
 - title: Point & Go! 2.0
   authors: Mike
   section: 3
-  description: An expansion of my interactive project (Point & Go!). This adds buttons inside the city pages that visually display statistical information from the city chosen compared to other cities.
+  description: >
+    An expansion of my interactive project (Point & Go!). This adds buttons
+    inside the city pages that visually display statistical information from the
+    city chosen compared to other cities.
   instructions: Click in the different cities and explore all that each page has to offer.
   screenshot:
   repo: https://github.com/mikezuk/point-go-2.0

@@ -21,6 +21,17 @@
   repo: https://glitch.com/~nana-final-project
   url: https://nana-final-project.glitch.me
 
+- title: Mystic Poems
+  authors: Helen & Cole
+  section: 3
+  description: >
+    We both love the verses of the mystic poet Rumi, so we want to make a book
+    of visualization based on some of his poems.
+  instructions: Drag mouse to read Rumi’s poetry
+  screenshot: mystic-poems.png
+  repo: https://glitch.com/~spring-thirsty-market
+  url: https://spring-thirsty-market.glitch.me
+
 - title: Be the Real Conductor
   authors: Hubert & Jarah
   section: 3
@@ -87,17 +98,6 @@
   screenshot: perfect-pitch-test.png
   repo: https://glitch.com/~finalproject-kathryn-madi-2020
   url: https://finalproject-kathryn-madi-2020.glitch.me/
-
-- title: Mystic Poems
-  authors:
-  section: 3
-  description: >
-    We both love the verses of the mystic poet Rumi, so we want to make a book
-    of visualization based on some of his poems.
-  instructions: Drag mouse to read Rumi’s poetry
-  screenshot: mystic-poems.png
-  repo: https://glitch.com/~spring-thirsty-market
-  url: https://spring-thirsty-market.glitch.me
 
 - title: Point & Go! 2.0
   authors: Mike

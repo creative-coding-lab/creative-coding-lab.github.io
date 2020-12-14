@@ -18,6 +18,17 @@ permalink: galleries/final-projects
   {% for project in projects %}
   {% if project.omit %}{% continue %}{% endif %}
   <div class="ui card">
+    {% if project.omit %}{% continue %}{% endif %}
+
+    {% assign code_url = null %}
+    {% assign show_url = null %}
+    {% if project.glitch_id %}
+    {% capture code_url %}https://glitch.com/edit/#!/{{ project.glitch_id }}{% endcapture %}
+    {% capture show_url %}https://{{ project.glitch_id }}.glitch.me{% endcapture %}
+    {% endif %}
+    {% if project.code_url %}{% assign code_url = project.code_url %}{% endif %}
+    {% if project.show_url %}{% assign show_url = project.show_url %}{% endif %}
+
     {% if project.screenshot %}
     <img class="image" src="/assets/images/final-projects/{{ project.screenshot }}" />
     {% endif %}
@@ -36,14 +47,14 @@ permalink: galleries/final-projects
     </div>
 
     <div class="extra content">
-      {% if project.show_url %}
-      <a class="ui primary button" href="{{ project.show_url }}" target="play" title="Interact with the project">
+      {% if show_url %}
+      <a class="ui primary button" href="{{ show_url }}" target="play" title="Interact with the project">
         <i class="play icon"></i>
         Show
       </a>
       {% endif %}
-      {% if project.code_url %}
-      <a href="{{ project.code_url }}" target="source">
+      {% if code_url %}
+      <a href="{{ code_url }}" target="source">
         <i class="github icon"></i>
         Code
       </a>

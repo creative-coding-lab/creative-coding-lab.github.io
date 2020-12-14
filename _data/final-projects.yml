@@ -18,8 +18,7 @@
     top singles, and famous artists-- from the 1960s to today.
   instructions:
   screenshot:
-  code_url: https://glitch.com/~nana-final-project
-  show_url: https://nana-final-project.glitch.me
+  glitch_id: nana-final-project
 
 - title: Mystic Poems
   authors: Helen & Cole
@@ -29,8 +28,7 @@
     of visualization based on some of his poems.
   instructions: Drag mouse to read Rumi’s poetry
   screenshot: mystic-poems.png
-  code_url: https://glitch.com/~spring-thirsty-market
-  show_url: https://spring-thirsty-market.glitch.me
+  glitch_id: spring-thirsty-market
 
 - title: Be the Real Conductor
   authors: Hubert & Jarah
@@ -97,8 +95,7 @@
     environment. Then, type ENTER to start the game!"
   # instructions: Type enter to start the game and go to the next level. Move your hands to generate the sounds. Please try to mimic the music example you hear. You can press “play the music” button on the top left corner to replay the example music (we have not finished level 2 and level 3)
   screenshot: perfect-pitch-test.png
-  code_url: https://glitch.com/~finalproject-kathryn-madi-2020
-  show_url: https://finalproject-kathryn-madi-2020.glitch.me/
+  glitch_id: finalproject-kathryn-madi-2020
 
 - title: Point & Go! 2.0
   authors: Mike

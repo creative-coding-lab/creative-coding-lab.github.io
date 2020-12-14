@@ -1,7 +1,6 @@
 - title: All Way Long
   authors: Cara & Jyoti
   section: 3
-  description:
   instructions: >
     The idea is to present a journey of Creative Coding Lab in terms of four
     projects. Move your head to control a ball, and touch off to see our all way
@@ -81,10 +80,6 @@
     User will use hand gestures through motion detection to either collect or
     break an objects using hand gestures.
   omit: true
-  instructions:
-  screenshot:
-  code_url:
-  url:
 
 - title: Perfect Pitch Test
   authors: Madi & Kathryn

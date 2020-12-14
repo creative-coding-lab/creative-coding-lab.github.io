@@ -5,14 +5,15 @@ permalink: galleries/final-projects
 ---
 
 <p>
-  In the previous recitations and projects you were asked to work on specific
-  areas: Drawing, Generative Visuals, Interactive Experience, the Data
+  In the previous recitations and projects, students were asked to work on
+  specific areas: Drawing, Generative Visuals, Interactive Experience, the Data
   Visualization. In <a
     href="https://docs.google.com/document/d/1sLbt5CQMm8ZVlM2s18iBkgFyY4Ma_jN4oooBxxPfQzA/edit?usp=sharing">Project
-    IV. Creative Coding</a>, you may choose your own area.
+    IV. Creative Coding</a>, they may choose their own area. They are also given
+  the option of extending a prevoius project.
 </p>
 
-<div class="ui cards">
+<div id="shuffled" class="ui cards">
   {% assign projects = site.data.final-projects %}
   {% for project in projects %}
   <div class="ui card">

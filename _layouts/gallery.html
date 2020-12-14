@@ -1,14 +1,16 @@
 ---
 ---
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 | default: " en" }}" class="no-js">
 
 <head>
   {% include head.html %}
   {% include head/custom.html %}
   <meta http-equiv="refresh" content="900">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+  <script src="/assets/js/shuffle.js" defer></script>
   <style>
     .ui.container {
       margin-top: 20px;
@@ -26,14 +28,14 @@
       font-weight: bold;
     }
   </style>
-  </head>
+</head>
 
-  <body>
-    {% include_cached skip-links.html %}
-    {% include_cached browser-upgrade.html %}
-    {% include_cached masthead.html %}
+<body>
+  {% include_cached skip-links.html %}
+  {% include_cached browser-upgrade.html %}
+  {% include_cached masthead.html %}
 
-    <div class="ui container">
+  <div class="ui container">
     {{ content }}
   </div>
 
@@ -45,6 +47,6 @@
   </div>
 
   {% include scripts.html %}
-  </body>
+</body>
 
-  </html>
+</html>

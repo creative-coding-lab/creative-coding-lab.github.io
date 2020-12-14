@@ -1,8 +1,18 @@
 ---
 layout: gallery
-title: Interactive Projects
+title: Interactive Experience Projects
 permalink: galleries/interactive-projects
 ---
+
+<p>
+  <a
+    href="https://docs.google.com/document/d/1KyPnTRqoMipSgxU10QJ_ey74tY0YETPe3Q9Xt26TWRo/edit?usp=drive_web&ouid=112951101116018294463">Project
+    II. Interactive
+    Experience</a>
+  is a <em>group software project</em> to develop a <em>screen-based interactive
+    experience</em> utilizing <em>Object-Oriented Programming</em> concepts and <em>mouse
+    and/or keyboard interaction</em>(s).
+</p>
 
 <div id="shuffled" class="ui cards">
   {% assign projects = site.data.interactive-projects %}
@@ -25,13 +35,13 @@ permalink: galleries/interactive-projects
       {% endif %}
     </div>
     <div class="extra content">
-        <a class="ui primary button" href="{{ project.url }}" target="play" title="Interact with the project">
-          <i class="play icon"></i>
-          Run
-        </a>
-        {% if project.repo %}
-          <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Source</a>
-        {% endif %}
+      <a class="ui primary button" href="{{ project.url }}" target="play" title="Interact with the project">
+        <i class="play icon"></i>
+        Run
+      </a>
+      {% if project.repo %}
+      <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Source</a>
+      {% endif %}
     </div>
   </div>
   {% endfor %}
@@ -53,6 +63,6 @@ permalink: galleries/interactive-projects
     for (let child of newElements) {
       parent.appendChild(child);
     }
-}
-        shuffleCards();
+  }
+  shuffleCards();
 </script>

@@ -14,6 +14,10 @@ This is a **group software project** to develop a **screen-based interactive
 experience** utilizing **Object-Oriented Programming** concepts and **mouse and/or
 keyboard interaction**(s).
 
-## Project III. Data Visualization (15%)
+## [Project III. Data Visualization (15%)](https://docs.google.com/document/d/148UYwBW0jFeLH6NjE_SVmLDn4EO5fwCmlpaeraB6NvI/edit?usp=sharing)
 
-## Project IV. Creative Coding (25%)
+This is a mini project to develop data visualizations utilizing the JavaScript Object Notation (JSON) and data parsing.
+
+## [Project IV. Creative Coding (25%)](https://docs.google.com/document/d/1sLbt5CQMm8ZVlM2s18iBkgFyY4Ma_jN4oooBxxPfQzA/edit?usp=sharing)
+
+In the previous recitations and projects you were asked to work on specific areas: Drawing, Generative Visuals, Interactive Experience, the Data Visualization. In this project, you may choose your own area.

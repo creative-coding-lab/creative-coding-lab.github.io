@@ -30,7 +30,8 @@ permalink: galleries/final-projects
     {% if project.show_url %}{% assign show_url = project.show_url %}{% endif %}
 
     {% if project.screenshot %}
-    <img class="image" src="/assets/images/final-projects/{{ project.screenshot }}" />
+    <img class="image"
+      src="{% unless project.screenshot contains '/' %}/assets/images/final-projects/{% endunless %}{{ project.screenshot }}" />
     {% endif %}
 
     <div class="content">

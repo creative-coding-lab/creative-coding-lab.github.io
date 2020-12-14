@@ -63,9 +63,9 @@
   section: 3
   description: I want to explore more random object generations along with a lot of user interactions.
   instructions:
-  screenshot:
+  screenshot: bad-team.png
   repo: https://github.com/kd-potato/CCLAB-Flower
-  url: https://kd-potato.github.io/CCLAB-Flower/
+  url: https://kd-potato.github.io/CCLAB-Flower/p5-template-main/
 
 - title: Target
   authors: Jyotsna

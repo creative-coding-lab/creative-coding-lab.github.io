@@ -6,7 +6,7 @@
     projects. Move your head to control a ball, and touch off to see our all way
     long.
   screenshot: all-way-long.png
-  code_url: https://github.com/koapush/final-project
+  github_nwo: koapush/final-project
   show_url: https://all-way-long.vercel.app
 
 - title: NaNa
@@ -39,8 +39,7 @@
   instructions: >
     Follow mouse movements according to the tutorial screen.
   screenshot: be-the-real-conductor.png
-  code_url: https://github.com/hubertyumenglu/Project-II
-  show_url: https://hubertyumenglu.github.io/Project-II/
+  github_nwo: hubertyumenglu/Project-II
 
 - title: KORE
   authors: Vivianna
@@ -50,8 +49,7 @@
     be interactive features that allow the user to grow a tree through sound
     classification and mouse clicking. Enjoy the music and have a relaxing time.
   screenshot: kore.png
-  code_url: https://github.com/vkm9594/final-project-kore
-  show_url: https://vkm9594.github.io/final-project-kore/
+  github_nwo: vkm9594/final-project-kore
 
 - title: M(I) Perspective
   authors: Vicky & Ethan
@@ -59,8 +57,7 @@
   description: A first-person gallery, using our favorites pictures that we have taken
   instructions:
   screenshot: mi-perspective.png
-  code_url: https://github.com/ealescent/Project-IV.-M-I-Perspective
-  show_url: https://ealescent.github.io/Project-IV.-M-I-Perspective/
+  github_nwo: ealescent/Project-IV.-M-I-Perspective
 
 - title: Bad Team
   authors: Kevin
@@ -70,8 +67,7 @@
     interactions.
   instructions:
   screenshot: bad-team.png
-  code_url: https://github.com/kd-potato/CCLAB-Flower
-  show_url: https://kd-potato.github.io/CCLAB-Flower/p5-template-main/
+  github_nwo: kd-potato/CCLAB-Flower
 
 - title: Target
   authors: Jyotsna
@@ -101,7 +97,7 @@
     city chosen compared to other cities.
   instructions: Click in the different cities and explore all that each page has to offer.
   screenshot: point-and-go.png
-  code_url: https://github.com/mikezuk/point-go-2.0
+  github_nwo: mikezuk/point-go-2.0
   show_url: https://point-and-go-2.vercel.app
 
 

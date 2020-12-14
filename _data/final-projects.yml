@@ -6,7 +6,7 @@
     The idea is to present a journey of Creative Coding Lab in terms of four
     projects. Move your head to control a ball, and touch off to see our all way
     long.
-  screenshot:
+  screenshot: all-way-long.png
   repo: https://github.com/koapush/final-project
   url: https://all-way-long.vercel.app
 
@@ -32,7 +32,7 @@
     Follow mouse movements according to the tutorial screen; additionally to
     other points you provide in the feedback, you can simply write ( ex. I see
     this / I don't see this).
-  screenshot:
+  screenshot: be-the-real-conductor.png
   repo: https://github.com/hubertyumenglu/Project-II
   url: https://hubertyumenglu.github.io/Project-II/
 
@@ -45,7 +45,7 @@
     classification and mouse clicking. Enjoy the music and have a relaxing time.
     The instructions are in my project. Thank you!
   # instructions: Click on the canvas to see the tree grow
-  screenshot:
+  screenshot: kore.png
   repo: https://github.com/vkm9594/final-project-kore
   url: https://vkm9594.github.io/final-project-kore/
 
@@ -54,7 +54,7 @@
   section: 3
   description: A first-person gallery, using our favorites pictures that we have taken
   instructions:
-  screenshot:
+  screenshot: mi-perspective-png
   repo: https://github.com/ealescent/Project-IV.-M-I-Perspective
   url: https://ealescent.github.io/Project-IV.-M-I-Perspective/
 
@@ -84,7 +84,7 @@
     Stand back to show your upper body in the camera and play in a good light
     environment. Then, type ENTER to start the game!"
   # instructions: Type enter to start the game and go to the next level. Move your hands to generate the sounds. Please try to mimic the music example you hear. You can press “play the music” button on the top left corner to replay the example music (we have not finished level 2 and level 3)
-  screenshot:
+  screenshot: perfect-pitch-test.png
   repo: https://glitch.com/~finalproject-kathryn-madi-2020
   url: https://finalproject-kathryn-madi-2020.glitch.me/
 
@@ -95,7 +95,7 @@
     We both love the verses of the mystic poet Rumi, so we want to make a book
     of visualization based on some of his poems.
   instructions: Drag mouse to read Rumi’s poetry
-  screenshot:
+  screenshot: mystic-poems.png
   repo: https://glitch.com/~remix-of-hori
   url: https://remix-of-hori.glitch.me
 
@@ -107,6 +107,6 @@
     inside the city pages that visually display statistical information from the
     city chosen compared to other cities.
   instructions: Click in the different cities and explore all that each page has to offer.
-  screenshot:
+  screenshot: point-and-go.png
   repo: https://github.com/mikezuk/point-go-2.0
-  url: https://mikezuk.github.io/point-go-2.0/
+  url: https://point-and-go-2.vercel.app

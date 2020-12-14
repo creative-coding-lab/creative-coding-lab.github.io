@@ -9,7 +9,7 @@ permalink: galleries/final-projects
   {% for project in projects %}
   <div class="ui card">
     {% if project.screenshot %}
-    <img class="image" src="{{ project.screenshot }}" />
+    <img class="image" src="/assets/images/final-projects/{{ project.screenshot }}" />
     {% endif %}
     <div class="content">
       <a class="header">{{ project.title | default: default_title }}</a>

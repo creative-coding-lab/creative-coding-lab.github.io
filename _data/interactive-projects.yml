@@ -1,75 +1,121 @@
+
 - title: Point and Go!
   authors: Oona, Mike
   section: 3
   jamboard_page: 15
-  description: With inspiration from travelling mood boards, travel journals, and colorful world maps, this project allows the user to "travel" (or just get future vacation inspiration) on their laptop screen.
-  instructions: To navigate this project, simply move your mouse across the page, choose from one of three cities, then click to "go" there! Once inside the city, you can identify two landmark locations of that city and learn more about them.
+  description: >
+    With inspiration from travelling mood boards, travel journals, and colorful
+    world maps, this project allows the user to "travel" (or just get future
+    vacation inspiration) on their laptop screen.
+  instructions: >
+    To navigate this project, simply move your mouse across the page, choose
+    from one of three cities, then click to "go" there! Once inside the city,
+    you can identify two landmark locations of that city and learn more about
+    them.
   screenshot: https://github.com/piinkoon/interactive-project/raw/master/assets/map.JPG
   repo: https://github.com/piinkoon/interactive-project
   url: https://piinkoon.github.io/interactive-project
+
 - title: Cloudy With A Chance of PB&J
   authors: Anna, Jyotsna
   section: 3
   jamboard_page: 13
-  description: Cloudy With A Chance of PB&J is a key interactive animation
-  instructions: Press the SHIFT key to see a 'storm' of peanut butter, jelly, and bread.
+  description: >
+    Cloudy With A Chance of PB&J is a key interactive animation
+  instructions: >
+    Press the SHIFT key to see a 'storm' of peanut butter, jelly, and bread.
   screenshot: https://github.com/JyotsnaKaramdas/PB-J-Interactive-Project/raw/main/images/Screen%20Shot%202020-11-02%20at%2010.41.52%20PM.png?raw=true
   repo: https://github.com/JyotsnaKaramdas/PB-J-Interactive-Project
   url: https://JyotsnaKaramdas.github.io/PB-J-Interactive-Project
+
 - title: Fishing for Your Dreams
   authors: Victoria, Ethan
   section: 3
   jamboard_page: 17
-  description: Equally serene and minimal, our project hopes to invoke an impactful calmness byways through the simple yet quirky interaction within it.
-  instructions: "Use the mouse to change the sky. Use the left and right arrows to move the boat. Try moving them simultanesouly at the same speed, following each other. Enjoy c:"
+  description: >
+    Equally serene and minimal, our project hopes to invoke an impactful
+    calmness byways through the simple yet quirky interaction within it.
+  instructions: >
+    Use the mouse to change the sky. Use the left and right arrows to move the
+    boat. Try moving them simultanesouly at the same speed, following each
+    other. Enjoy c:
   screenshot: https://raw.githubusercontent.com/StarfishSunset/Fishing-for-Our-Dreams/master/screen.png
   repo: https://github.com/StarfishSunset/Fishing-for-Our-Dreams
   url: https://StarfishSunset.github.io/Fishing-for-Our-Dreams
+
 - title: Hit the Virus
   authors: Jyoti, Cara
   jamboard_page: 16
   section: 3
-  description: This is an interactive game of launching the ball to killing the virus. Under the general background of Covid-19, humans as a community make every effort to fight against the virus. By consistant trials, we are believed to win the game and to conquer our current difficulties:D
-  instructions: Press the Space key to launch the ball. Bounce the ball to hit the virus. Win if you successfully kill the virus. Lose if you run out of 9 chances.
+  description: >
+    This is an interactive game of launching the ball to killing the virus.
+    Under the general background of Covid-19, humans as a community make every
+    effort to fight against the virus. By consistant trials, we are believed to
+    win the game and to conquer our current difficulties:D
+  instructions: >
+    Press the Space key to launch the ball. Bounce the ball to hit the virus.
+    Win if you successfully kill the virus. Lose if you run out of 9 chances.
   screenshot: https://github.com/Koapush/project2/raw/master/screenshot.png
   repo: https://github.com/Koapush/project2
   url: https://Koapush.github.io/project2
+
 - title: Flying With Kiki
   authors: Vivianna, Kevin
   section: 3
   jamboard_page: 19
-  description: This code is a side scroller game based on the Studio Ghibli film "Kiki's Delivery Service". It is a collaborative project for Creative Coding Lab at NYU Shanghai.
-  instructions: Press space to begin the game. Make sure to avoid the obstacles coming at Kiki!
+  description: >
+    This code is a side scroller game based on the Studio Ghibli film "Kiki's
+    Delivery Service". It is a collaborative project for Creative Coding Lab at
+    NYU Shanghai.
+  instructions: >
+    Press space to begin the game. Make sure to avoid the obstacles coming at
+    Kiki!
   screenshot: https://github.com/vkm9594/flying-with-kiki/raw/master/images/Screenshot.png
   repo: https://github.com/vkm9594/flying-with-kiki
   url: https://vkm9594.github.io/flying-with-kiki
+
 - title: CyberDash
   authors: Madi, Kathryn
   section: 3
   jamboard_page: 18
-  description: In our game, a flying car races against the clock to deliver packages in a futuristic city.
-  instructions: Click on the packages to deliver as many as you can before the time runs out!
+  description: >
+    In our game, a flying car races against the clock to deliver packages in a
+    futuristic city.
+  instructions: >
+    Click on the packages to deliver as many as you can before the time runs
+    out!
   screenshot: https://github.com/MadisonD2024/Project-II-Code/raw/master/Gamepicture.png
   repo: https://github.com/MadisonD2024/Project-II-Code
   url: https://MadisonD2024.github.io/Project-II-Code
+
 - title: Clicktilez
   authors: Helen, Cole
   section: 3
   jamboard_page: 14
-  description: A colorful and visually stimulating program which are accompanied by calming piano harmony when the user presses the individual squares.
-  instructions: The square are activated upon mouse press and the small squares within changes color, making the illusion that it is scaling bigger and smaller in a very fast pace.
+  description: >
+    A colorful and visually stimulating program which are accompanied by calming
+    piano harmony when the user presses the individual squares.
+  instructions: >
+    The square are activated upon mouse press and the small squares within
+    changes color, making the illusion that it is scaling bigger and smaller in
+    a very fast pace.
   screenshot: /assets/images/interactive-project/clicktilez.png
   repo: https://github.com/nacoleycole/Group-Project---Helen-Cole
   url: https://nacoleycole.github.io/Group-Project---Helen-Cole/
+
 - title: Music Conductor
   authors: Hubert, Jarah
   section: 3
   description: Become the conductor of Barcarole! In this demo game you can lead the musicians and their sound by simply waving your baton.
-  instructions: Press and Hold mouse on canvas to play audio; move your mouse based on directions listed to change the master volume and volume of each section. Become the conductor and wave your (mouse)baton!
+  instructions: >
+    Press and Hold mouse on canvas to play audio; move your mouse based on
+    directions listed to change the master volume and volume of each section.
+    Become the conductor and wave your (mouse)baton!
   jamboard_page: 20
   screenshot: https://github.com/hubertYumengLu/Project-II/raw/master/assets/screenshots/Game.png
   repo: https://github.com/hubertYumengLu/Project-II
   url: https://hubertYumengLu.github.io/Project-II
+
 
 - authors: Hazel & Kyrie
   url: https://interactive-experience.glitch.me/
@@ -79,6 +125,7 @@
 - authors: Elena & Daryl
   url: https://interactive-design-10-24-remix.glitch.me
   jamboard_page: 2
+
 - title: Brick Breaker
   authors: Yasmin & D.J.
   url: https://glitch.com/~dj-yasmin-progress
@@ -88,34 +135,42 @@
   url: https://extreme-storm-babcat.glitch.me
   screenshot: /assets/images/interactive-project/doris-julie.jpg
   jamboard_page: 4
+
 - authors: Joanna & Nina
   url: https://error-404-projectnofound.glitch.me
   screenshot: /assets/images/interactive-project/joanna-nina.jpg
   jamboard_page: 5
+
 - title: Catch Me If You Can
   authors: Carol & Chingyee
   url: https://ccl-project-2-rewrite3.glitch.me
   screenshot: /assets/images/interactive-project/catch-me.jpg
   jamboard_page: 6
+
 - authors: Angie & Benny
   url: https://quiz-project-clicks.glitch.me
   screenshot: /assets/images/interactive-project/angie-benny.jpg
   jamboard_page: 7
+
 - authors: Rocio, Emma & Amber
   url:
   screenshot: /assets/images/interactive-project/rocio-mma-mber.jpg
   jamboard_page: 8
+
 - authors: Elan & Lillian
   url: https://glitch.com/~project2-xu-luo
   screenshot: /assets/images/interactive-project/elan-lillian.jpg
   jamboard_page: 9
+
 - authors: Billy, Jessie, and Ha Vi
   url: https://jumping-game.glitch.me
   jamboard_page: 10
+
 - authors: Vivian & Selina
   url: https://glitch.com/~launchpad-xxxl
   screenshot: /assets/images/interactive-project/launchpad.jpg
   jamboard_page: 11
+
 - authors: Cybil, Sophie & Erin
   url: https://editor.p5js.org/xp2022/present/b78wDLqOg
   repo: https://editor.p5js.org/xp2022/sketches/b78wDLqOg

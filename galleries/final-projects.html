@@ -24,10 +24,12 @@ permalink: galleries/final-projects
       {% endif %}
     </div>
     <div class="extra content">
+      {% if project.url %}
       <a class="ui primary button" href="{{ project.url }}" target="play" title="Interact with the project">
         <i class="play icon"></i>
         Show
       </a>
+      {% endif %}
       {% if project.repo %}
       <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Code</a>
       {% endif %}

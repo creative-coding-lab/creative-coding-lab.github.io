@@ -113,17 +113,20 @@
 - title: The Rise and Fall of John Lennon
   section: 1
   authors: Carol & Hazel
+  screenshot: lennon.jpg
   glitch_id: furry-autumn-jay
 
 - title: Such A Big Surprise
   section: 1
   authors: Doris & Julie
+  screenshot: surprise.jpg
   instructions: Move your nose to avoid the barriers.
   glitch_id: final-surprise
 
 - title: "A Space Odyssey: Explore, Observe and Meditate"
   section: 1
   authors: Elena & Kyrie
+  screenshot: odyssey.jpg
   instructions: >
     The first theme is a prelude and there’s no interaction,  but you can interact with the second theme.
   blog: https://wp.nyu.edu/elenahuang/2020/12/12/creative-coding-final-project-odyssey-elena-kyrie/
@@ -132,6 +135,7 @@
 - title: Face Yoga
   section: 1
   authors: Chingyee & Lau
+  screenshot: face-yoga.jpg
   instructions: >
     Step 1: Press any key, and read instructions!
     Step 2: Press any key to enter the game (still in the process of development…)... The game will end after 5s (“5s” is short for testing purpose)
@@ -143,6 +147,7 @@
 - title: Ambience
   section: 1
   authors: Nina & Joanna
+  screenshot: procrastination-zone.jpg
   instructions: >
     Upon opening project link, enable your mic
     Whenever you speak into your mic, the mic will pick up the audio (the changes of the wave are based on volume of the audio)
@@ -156,15 +161,18 @@
 - title: Finally, Fly me to the Moon
   section: 3
   authors: Selina
+  screenshot: fly-me-to-the-moon.jpg
   blog: https://wp.nyu.edu/selinaxue/2020/12/13/project-iv-final-fly-me-to-the-moon/
   glitch_id: ccl-final-selina
 
 - section: 3
   authors: Amber
+  screenshot: amber.jpg
   blog: https://wp.nyu.edu/shanghai-amber_kong/
   glitch_id: amber-final-project
 
 - section: 3
   authors: Lillian
+  screenshot: lillian.jpg
   blog: https://wp.nyu.edu/lillianxucclab/2020/12/07/project-iv-final-project/
   glitch_id: finalprj-lillianxu

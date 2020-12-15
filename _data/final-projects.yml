@@ -95,7 +95,7 @@
     User will use hand gestures through motion detection to either collect or
     break an objects using hand gestures.
   # blog: https://wp.nyu.edu/nyushanghai-jyotsnakaramdas/
-  omit: true
+  skip: true
 
 - title: Perfect Pitch Test
   section: 3

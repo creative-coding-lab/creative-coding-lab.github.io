@@ -14,10 +14,8 @@ permalink: galleries/final-projects
 <div id="shuffled" class="ui cards">
   {% assign projects = site.data.final-projects %}
   {% for project in projects %}
-  {% if project.omit %}{% continue %}{% endif %}
+  {% if project.skip %}{% continue %}{% endif %}
   <div class="ui card cclab-section-{{ project.section }}">
-    {% if project.omit %}{% continue %}{% endif %}
-
     {% capture default_title %}{{ project.authors }}’s Project{% endcapture %}
 
     {% assign code_url = null %}
@@ -84,7 +82,7 @@ permalink: galleries/final-projects
       {% if show_url %}
       <a class="ui primary button" href="{{ show_url }}" target="play" title="Interact with the project">
         <i class="play icon"></i>
-        Show
+        Visit
       </a>
       {% endif %}
       {% if code_url %}

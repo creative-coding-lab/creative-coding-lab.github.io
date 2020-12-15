@@ -62,15 +62,16 @@ permalink: galleries/final-projects
         Show
       </a>
       {% endif %}
+      {% if project.blog %}
+      <a href="{{ project.blog }}" target="source">
+        <i class="book icon"></i>
+        Blog
+      </a>
+      {% endif %}
       {% if code_url %}
       <a href="{{ code_url }}" target="source">
         <i class="github icon"></i>
         Code
-      </a>
-      {% endif %}
-      {% if project.blog %}
-      <a href="{{ project.blog }}" target="source">
-        Blog
       </a>
       {% endif %}
     </div> <!-- .extra.content -->

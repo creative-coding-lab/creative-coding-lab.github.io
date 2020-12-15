@@ -109,35 +109,36 @@
   section: 1
   authors: Angie & Benny
   instructions: >
-    Use space bar or use your nose to control the character to jump (tilt  your head back).
-    Saying “up” will give you a temporary shield that will protect you from the barrel.
-    The goal is to survive as long as possible.
+    • Use space bar or use your nose to control the character to jump (tilt  your head back).
+    • Saying “up” will give you a temporary shield that will protect you from the barrel.
+    • The goal is to survive as long as possible.
   glitch: meteor-round-smash
 
 - title: Immersing Entertainment
   section: 1
   authors: Yasmin & Daryl
   instructions: >
-    Step back from your computer and make sure your whole body can be seen by the camera.
-    Click the screen and start dancing to see effects!
-    Press “Spacebar” to Stop.
-    See how your movements creates animation.
+    • Step back from your computer and make sure your whole body can be seen by the camera.
+    • Click the screen and start dancing to see effects!
+    • Press “Spacebar” to Stop.
+    • See how your movements creates animation.
   glitch: ccl06-finalproject-yasmin-daryl
 
 - title: The Four Elements
+  section: 1
   authors: D.J.
   instructions: >
-    Select one of the four quadrants on the landing page.
-    Read your destiny and abstract qualities at the top.
-    Admire the generative art and audio below.
+    • Select one of the four quadrants on the landing page.
+    • Read your destiny and abstract qualities at the top.
+    • Admire the generative art and audio below.
   glitch: dj-4project-elements
 
 - title: The Rise and Fall of John Lennon
   section: 1
   authors: Carol & Hazel
   instructions: >
-    Hover over each point in the timeline to learn a fact about John Lennon
-    Click on the points to see if there is an interaction
+    • Hover over each point in the timeline to learn a fact about John Lennon
+    • Click on the points to see if there is an interaction
   screenshot: lennon.jpg
   glitch: furry-autumn-jay
 
@@ -146,9 +147,9 @@
   authors: Doris & Julie
   screenshot: surprise.jpg
   instructions: >
-    Use your nose to duck the evil and collect the presents!
-    You will have 15 seconds to collect the presents.
-    Once you collide the evil, you fail the game. You can click to restart.
+    • Use your nose to duck the evil and collect the presents!
+    • You will have 15 seconds to collect the presents.
+    • Once you collide the evil, you fail the game. You can click to restart.
   glitch: final-surprise
 
 - title: "A Space Odyssey: Explore, Observe and Meditate"
@@ -156,10 +157,10 @@
   authors: Elena & Kyrie
   screenshot: odyssey.jpg
   instructions: >
-    Please explore the interactions (drag, zoom in/out) after the prelude.
-    Please get your headset on.
-    Please don’t change your window size after it begins.
-    Please share with us your interpretations of the scenes.
+    • Please explore the interactions (drag, zoom in/out) after the prelude.
+    • Please get your headset on.
+    • Please don’t change your window size after it begins.
+    • Please share with us your interpretations of the scenes.
   blog: https://wp.nyu.edu/elenahuang/2020/12/12/creative-coding-final-project-odyssey-elena-kyrie/
   glitch: final-project-odyssey-kyrie-elena
 
@@ -168,9 +169,9 @@
   authors: Chingyee & Lau
   screenshot: face-yoga.jpg
   instructions: >
-    Cue word (eg. happy, surprised) will pop out every 2s.
-    Exercise your facial muscle by doing the same facial expression as cue word.
-    Gain 5 points if they match!
+    • Cue word (eg. happy, surprised) will pop out every 2s.
+    • Exercise your facial muscle by doing the same facial expression as cue word.
+    • Gain 5 points if they match!
   blog: https://wp.nyu.edu/jl8608/2020/12/03/creative-coding-final-project/
   glitch: ccl-final-chingyee-faceyoga
 
@@ -179,9 +180,9 @@
   authors: Nina & Joanna
   screenshot: procrastination-zone.jpg
   instructions: >
-    Upon opening project link, enable your mic
-    Whenever you speak into your mic, the mic will pick up the audio (the changes of the wave are based on volume of the audio)
-    You will see the line across the canvas move/shift
+    • Upon opening project link, enable your mic
+    • Whenever you speak into your mic, the mic will pick up the audio (the changes of the wave are based on volume of the audio)
+    • You will see the line across the canvas move/shift
   glitch: procrastination-zone
 
 #

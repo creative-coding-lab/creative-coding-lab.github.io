@@ -49,7 +49,7 @@ permalink: galleries/final-projects
       </div>
       {% if project.instructions %}
       <div class="description">
-        <b>Instructions</b>: {{ project.instructions }}
+        <b>Instructions</b>: {{ project.instructions | replace: "•", "<br>• " }}
       </div>
       {% endif %}
     </div>

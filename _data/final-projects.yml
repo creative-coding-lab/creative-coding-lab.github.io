@@ -108,15 +108,36 @@
 - title: Knight Jump
   section: 1
   authors: Angie & Benny
+  instructions: >
+    Use space bar or use your nose to control the character to jump (tilt  your head back).
+    Saying “up” will give you a temporary shield that will protect you from the barrel.
+    The goal is to survive as long as possible.
   glitch_id: meteor-round-smash
 
 - title: Immersing Entertainment
   section: 1
   authors: Yasmin & Daryl
+  instructions: >
+    Step back from your computer and make sure your whole body can be seen by the camera.
+    Click the screen and start dancing to see effects!
+    Press “Spacebar” to Stop.
+    See how your movements creates animation.
+  glitch_id: ccl06-finalproject-yasmin-daryl
+
+- title: The Four Elements
+  author: D.J.
+  instructions: >
+    Select one of the four quadrants on the landing page.
+    Read your destiny and abstract qualities at the top.
+    Admire the generative art and audio below.
+  glitch_id: dj-4project-elements
 
 - title: The Rise and Fall of John Lennon
   section: 1
   authors: Carol & Hazel
+  instructions: >
+    Hover over each point in the timeline to learn a fact about John Lennon
+    Click on the points to see if there is an interaction
   screenshot: lennon.jpg
   glitch_id: furry-autumn-jay
 
@@ -124,7 +145,10 @@
   section: 1
   authors: Doris & Julie
   screenshot: surprise.jpg
-  instructions: Move your nose to avoid the barriers.
+  instructions: >
+    Use your nose to duck the evil and collect the presents!
+    You will have 15 seconds to collect the presents.
+    Once you collide the evil, you fail the game. You can click to restart.
   glitch_id: final-surprise
 
 - title: "A Space Odyssey: Explore, Observe and Meditate"
@@ -132,7 +156,10 @@
   authors: Elena & Kyrie
   screenshot: odyssey.jpg
   instructions: >
-    The first theme is a prelude and there’s no interaction,  but you can interact with the second theme.
+    Please explore the interactions (drag, zoom in/out) after the prelude.
+    Please get your headset on.
+    Please don’t change your window size after it begins.
+    Please share with us your interpretations of the scenes.
   blog: https://wp.nyu.edu/elenahuang/2020/12/12/creative-coding-final-project-odyssey-elena-kyrie/
   glitch_id: final-project-odyssey-kyrie-elena
 
@@ -141,10 +168,9 @@
   authors: Chingyee & Lau
   screenshot: face-yoga.jpg
   instructions: >
-    Step 1: Press any key, and read instructions!
-    Step 2: Press any key to enter the game (still in the process of development…)... The game will end after 5s (“5s” is short for testing purpose)
-    Step 3: Get your score! (Also I am developing the calculation algorithm)
-    Step 4: Press “RETURN / ENTER” key to restart
+    Cue word (eg. happy, surprised) will pop out every 2s.
+    Exercise your facial muscle by doing the same facial expression as cue word.
+    Gain 5 points if they match!
   blog: https://wp.nyu.edu/jl8608/2020/12/03/creative-coding-final-project/
   glitch_id: ccl-final-chingyee-faceyoga
 

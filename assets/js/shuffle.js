@@ -21,7 +21,7 @@ function shuffle(array) {
 
 {
   let parent = document.getElementById("shuffled");
-  if (parent) {
+  if (parent && !document.location.hash.match(/sorted/)) {
     shuffleChildren(parent);
   }
   let m = document.location.hash.match(/section-(\d)/);

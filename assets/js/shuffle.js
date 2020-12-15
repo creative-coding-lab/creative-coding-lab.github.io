@@ -26,9 +26,9 @@ function shuffle(array) {
   }
   let m = document.location.hash.match(/section-(\d)/);
   if (m) {
-    let otherSections = new Set(["1", "2", "3"]);
-    otherSections.delete(m[1]);
-    for (let s of otherSections) {
+    let hiddenSections = new Set(["1", "3", "5"]);
+    hiddenSections.delete(m[1]);
+    for (let s of hiddenSections) {
       let d = document.getElementsByClassName(`cclab-section-${s}`);
       [...d].forEach(e => e.style.display = "none");
     }

@@ -1,6 +1,6 @@
 - title: All Way Long
-  authors: Cara & Jyoti
   section: 3
+  authors: Cara & Jyoti
   instructions: >
     The idea is to present a journey of Creative Coding Lab in terms of four
     projects. Move your head to control a ball, and touch off to see our all way
@@ -10,18 +10,17 @@
   show_url: https://all-way-long.vercel.app
 
 - title: NaNa
-  authors: Anna & Oona
   section: 3
+  authors: Anna & Oona
   description: >
     An interactive visualization of the popularity of music-- including genres,
     top singles, and famous artists-- from the 1960s to today.
-  instructions:
   screenshot: nana.png
   glitch_id: nana-final-project
 
 - title: Mystic Poems
-  authors: Helen & Cole
   section: 3
+  authors: Helen & Cole
   description: >
     We both love the verses of the mystic poet Rumi, so we want to make a book
     of visualization based on some of his poems.
@@ -30,8 +29,8 @@
   glitch_id: spring-thirsty-market
 
 - title: Be the Real Conductor
-  authors: Hubert & Jarah
   section: 3
+  authors: Hubert & Jarah
   description: >
     Based on project 2, this project goes further by replacing the mouse
     interaction with visual interaction, in the form of the computer capturing
@@ -42,8 +41,8 @@
   github_nwo: hubertyumenglu/Project-II
 
 - title: KORE
-  authors: Vivianna
   section: 3
+  authors: Vivianna
   description: >
     Once upon a time Persephone was known as Kore. In this project, there will
     be interactive features that allow the user to grow a tree through sound
@@ -52,34 +51,32 @@
   github_nwo: vkm9594/final-project-kore
 
 - title: M(I) Perspective
-  authors: Vicky & Ethan
   section: 3
+  authors: Vicky & Ethan
   description: A first-person gallery, using our favorites pictures that we have taken
-  instructions:
   screenshot: mi-perspective.png
   github_nwo: ealescent/Project-IV.-M-I-Perspective
 
 - title: Bad Team
-  authors: Kevin
   section: 3
+  authors: Kevin
   description: >
     I want to explore more random object generations along with a lot of user
     interactions.
-  instructions:
   screenshot: bad-team.png
   github_nwo: kd-potato/CCLAB-Flower
 
 - title: Target
-  authors: Jyotsna
   section: 3
+  authors: Jyotsna
   description: >
     User will use hand gestures through motion detection to either collect or
     break an objects using hand gestures.
   omit: true
 
 - title: Perfect Pitch Test
-  authors: Madi & Kathryn
   section: 3
+  authors: Madi & Kathryn
   description: >
     Listen to the music and use your right hand to recreate the sound! Tip:
     Stand back to show your upper body in the camera and play in a good light
@@ -89,8 +86,8 @@
   glitch_id: finalproject-kathryn-madi-2020
 
 - title: Point & Go! 2.0
-  authors: Mike
   section: 3
+  authors: Mike
   description: >
     An expansion of my interactive project (Point & Go!). This adds buttons
     inside the city pages that visually display statistical information from the
@@ -100,47 +97,41 @@
   github_nwo: mikezuk/point-go-2.0
   show_url: https://point-and-go-2.vercel.app
 
+#
+# Section 1
+#
 
 - title: Knight Jump
+  section: 1
   authors: Angie & Benny
-  section: 1
-  description:
-  instructions:
   glitch_id: meteor-round-smash
+
 - title: Immersing Entertainment
+  section: 1
   authors: Yasmin & Daryl
-  section: 1
-  description:
-  instructions:
-  code_url:
-  show_url:
+
 - title: The Rise and Fall of John Lennon
-  authors: Carol & Hazel
   section: 1
-  description:
-  instructions:
+  authors: Carol & Hazel
   glitch_id: furry-autumn-jay
 
 - title: Such A Big Surprise
-  authors: Doris & Julie
   section: 1
-  description:
+  authors: Doris & Julie
   instructions: Move your nose to avoid the barriers.
   glitch_id: final-surprise
 
 - title: "A Space Odyssey: Explore, Observe and Meditate"
-  authors: Elena & Kyrie
   section: 1
-  description:
+  authors: Elena & Kyrie
   instructions: >
     The first theme is a prelude and there’s no interaction,  but you can interact with the second theme.
   blog: https://wp.nyu.edu/elenahuang/2020/12/12/creative-coding-final-project-odyssey-elena-kyrie/
   glitch_id: final-project-odyssey-kyrie-elena
 
 - title: Face Yoga
-  authors: Chingyee & Lau
   section: 1
-  description:
+  authors: Chingyee & Lau
   instructions: >
     Step 1: Press any key, and read instructions!
     Step 2: Press any key to enter the game (still in the process of development…)... The game will end after 5s (“5s” is short for testing purpose)
@@ -150,28 +141,30 @@
   glitch_id: ccl-final-chingyee-faceyoga
 
 - title: Ambience
-  authors: Nina & Joanna
   section: 1
-  description:
+  authors: Nina & Joanna
   instructions: >
     Upon opening project link, enable your mic
     Whenever you speak into your mic, the mic will pick up the audio (the changes of the wave are based on volume of the audio)
     You will see the line across the canvas move/shift
   glitch_id: procrastination-zone
 
+#
+# Section 3
+#
 
 - title: Finally, Fly me to the Moon
-  authors: Selina
   section: 3
+  authors: Selina
   blog: https://wp.nyu.edu/selinaxue/2020/12/13/project-iv-final-fly-me-to-the-moon/
   glitch_id: ccl-final-selina
 
-- authors: Amber
-  section: 3
+- section: 3
+  authors: Amber
   blog: https://wp.nyu.edu/shanghai-amber_kong/
   glitch_id: amber-final-project
 
-- author: Lillian
-  section: 3
+- section: 3
+  authors: Lillian
   blog: https://wp.nyu.edu/lillianxucclab/2020/12/07/project-iv-final-project/
   glitch_id: finalprj-lillianxu

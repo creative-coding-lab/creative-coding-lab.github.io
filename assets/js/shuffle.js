@@ -21,10 +21,10 @@ function shuffle(array) {
 
 {
   let parent = document.getElementById("shuffled");
-  if (parent && !document.location.search.match(/sorted/)) {
+  if (parent && !document.location.hash.match(/sorted/)) {
     shuffleChildren(parent);
   }
-  let m = document.location.search.match(/section-(\d)/);
+  let m = document.location.hash.match(/section-(\d)/);
   if (m) {
     let otherSections = new Set(["1", "2", "3"]);
     otherSections.delete(m[1]);

@@ -23,9 +23,9 @@
     An interactive visualization of the popularity of music – including genres,
     top singles, and famous artists – from the 1960s to today.
   blog:
-  - {name: Documentation, url: https://wp.nyu.edu/oonpecson/2020/12/14/cclab-final-project-documentation/}
-  - {name: Anna, url: https://wp.nyu.edu/annaharbeck/2020/12/13/cclab-project-iv-final-project/}
-  - {name: Oona, url: https://wp.nyu.edu/oonpecson/2020/12/14/cclab-final-project-reflection/}
+  - {name: Documentation, url: "https://wp.nyu.edu/oonpecson/2020/12/14/cclab-final-project-documentation/"}
+  - {name: Anna, url: "https://wp.nyu.edu/annaharbeck/2020/12/13/cclab-project-iv-final-project/"}
+  - {name: Oona, url: "https://wp.nyu.edu/oonpecson/2020/12/14/cclab-final-project-reflection/"}
   screenshot: nana.jpg
   glitch: nana-final-project
 
@@ -37,8 +37,8 @@
     of visualization based on some of his poems.
   instructions: Drag mouse to read Rumi’s poetry
   blog:
-  - {name: Helen, url: https://wp.nyu.edu/helenchen/2020/12/15/mystic-poem-documentation-reflection/}
-  - {name: Cole, url: https://wp.nyu.edu/shanghai-colescoolcreations/2020/12/15/final-project-reflection/}
+  - {name: Helen, url: "https://wp.nyu.edu/helenchen/2020/12/15/mystic-poem-documentation-reflection/"}
+  - {name: Cole, url: "https://wp.nyu.edu/shanghai-colescoolcreations/2020/12/15/final-project-reflection/"}
   screenshot: mystic-poems.jpg
   glitch: spring-thirsty-market
 
@@ -74,8 +74,8 @@
   description: A first-person gallery, using our favorites pictures that we have taken
   screenshot: mi-perspective.jpg
   blog:
-  - {name: Vicky, url: https://wp.nyu.edu/nyushanghai-voury/2020/12/14/project-iv-final-project-mi-perspective/}
-  - {name: Ethan, url: https://wp.nyu.edu/nyushanghai-ethanlan/2020/12/14/final-project-mi-perspective/}
+  - {name: Vicky, url: "https://wp.nyu.edu/nyushanghai-voury/2020/12/14/project-iv-final-project-mi-perspective/"}
+  - {name: Ethan, url: "https://wp.nyu.edu/nyushanghai-ethanlan/2020/12/14/final-project-mi-perspective/"}
   github: ealescent/Project-IV.-M-I-Perspective
 
 - title: Bad Team
@@ -107,8 +107,8 @@
   # instructions: Type enter to start the game and go to the next level. Move your hands to generate the sounds. Please try to mimic the music example you hear. You can press “play the music” button on the top left corner to replay the example music (we have not finished level 2 and level 3)
   screenshot: perfect-pitch-test.jpg
   blog:
-  - {name: Madi, url: https://wp.nyu.edu/shanghai-madi2024/2020/12/14/final-project-iv-perfect-pitch-test-by-kathryn-madi/}
-  - {name: Kathryn, url: https://wp.nyu.edu/kathrynzhou/2020/12/14/project-iv-final-project-documentation-blog/}
+  - {name: Madi, url: "https://wp.nyu.edu/shanghai-madi2024/2020/12/14/final-project-iv-perfect-pitch-test-by-kathryn-madi/"}
+  - {name: Kathryn, url: "https://wp.nyu.edu/kathrynzhou/2020/12/14/project-iv-final-project-documentation-blog/"}
   glitch: finalproject-kathryn-madi-2020
 
 - title: Point & Go! 2.0

@@ -5,7 +5,7 @@
     The idea is to present a journey of Creative Coding Lab in terms of four
     projects. Move your head to control a ball, and touch off to see our all way
     long.
-  screenshot: all-way-long.png
+  screenshot: all-way-long.jpg
   github_nwo: koapush/final-project
   show_url: https://all-way-long.vercel.app
 
@@ -15,7 +15,7 @@
   description: >
     An interactive visualization of the popularity of music-- including genres,
     top singles, and famous artists-- from the 1960s to today.
-  screenshot: nana.png
+  screenshot: nana.jpg
   glitch_id: nana-final-project
 
 - title: Mystic Poems
@@ -25,7 +25,7 @@
     We both love the verses of the mystic poet Rumi, so we want to make a book
     of visualization based on some of his poems.
   instructions: Drag mouse to read Rumi’s poetry
-  screenshot: mystic-poems.png
+  screenshot: mystic-poems.jpg
   glitch_id: spring-thirsty-market
 
 - title: Be the Real Conductor
@@ -37,7 +37,7 @@
     user’s poses and responding accordingly.
   instructions: >
     Follow mouse movements according to the tutorial screen.
-  screenshot: be-the-real-conductor.png
+  screenshot: be-the-real-conductor.jpg
   github_nwo: hubertyumenglu/Project-II
 
 - title: KORE
@@ -47,14 +47,14 @@
     Once upon a time Persephone was known as Kore. In this project, there will
     be interactive features that allow the user to grow a tree through sound
     classification and mouse clicking. Enjoy the music and have a relaxing time.
-  screenshot: kore.png
+  screenshot: kore.jpg
   github_nwo: vkm9594/final-project-kore
 
 - title: M(I) Perspective
   section: 3
   authors: Vicky & Ethan
   description: A first-person gallery, using our favorites pictures that we have taken
-  screenshot: mi-perspective.png
+  screenshot: mi-perspective.jpg
   github_nwo: ealescent/Project-IV.-M-I-Perspective
 
 - title: Bad Team
@@ -63,7 +63,7 @@
   description: >
     I want to explore more random object generations along with a lot of user
     interactions.
-  screenshot: bad-team.png
+  screenshot: bad-team.jpg
   github_nwo: kd-potato/CCLAB-Flower
 
 - title: Target
@@ -82,7 +82,7 @@
     Stand back to show your upper body in the camera and play in a good light
     environment. Then, type ENTER to start the game!"
   # instructions: Type enter to start the game and go to the next level. Move your hands to generate the sounds. Please try to mimic the music example you hear. You can press “play the music” button on the top left corner to replay the example music (we have not finished level 2 and level 3)
-  screenshot: perfect-pitch-test.png
+  screenshot: perfect-pitch-test.jpg
   glitch_id: finalproject-kathryn-madi-2020
 
 - title: Point & Go! 2.0
@@ -93,7 +93,7 @@
     inside the city pages that visually display statistical information from the
     city chosen compared to other cities.
   instructions: Click in the different cities and explore all that each page has to offer.
-  screenshot: point-and-go.png
+  screenshot: point-and-go.jpg
   github_nwo: mikezuk/point-go-2.0
   show_url: https://point-and-go-2.vercel.app
 

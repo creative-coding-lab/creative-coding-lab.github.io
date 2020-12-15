@@ -1,3 +1,7 @@
+#
+# Section 3
+#
+
 - title: All Way Long
   section: 3
   authors: Cara & Jyoti
@@ -155,23 +159,23 @@
   glitch_id: procrastination-zone
 
 #
-# Section 3
+# Section 5
 #
 
 - title: Finally, Fly me to the Moon
-  section: 3
+  section: 5
   authors: Selina
   screenshot: fly-me-to-the-moon.jpg
   blog: https://wp.nyu.edu/selinaxue/2020/12/13/project-iv-final-fly-me-to-the-moon/
   glitch_id: ccl-final-selina
 
-- section: 3
+- section: 5
   authors: Amber
   screenshot: amber.jpg
   blog: https://wp.nyu.edu/shanghai-amber_kong/
   glitch_id: amber-final-project
 
-- section: 3
+- section: 5
   authors: Lillian
   screenshot: lillian.jpg
   blog: https://wp.nyu.edu/lillianxucclab/2020/12/07/project-iv-final-project/

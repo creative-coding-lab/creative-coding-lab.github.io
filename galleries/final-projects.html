@@ -45,6 +45,7 @@ permalink: galleries/final-projects
     <div class="content">
       <a class="header">{{ project.title | default: default_title }}</a>
       <div class="meta">By {{ project.authors | replace: ", ", " & " }}</div>
+      <div class="meta">Section {{ project.section }}</div>
       <div class="description">
         {{ project.description }}
       </div>

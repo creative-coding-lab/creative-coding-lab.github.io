@@ -14,6 +14,7 @@ title: Section 3 – Oliver
 ## Project Galleries
 
 - [Final Projects](/galleries/final-projects#section-3)
+- [Interactive Experience](/galleries/interactive-projects#section-3)
 
 ## Lesson Notes
 

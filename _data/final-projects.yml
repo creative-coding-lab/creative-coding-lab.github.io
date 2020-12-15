@@ -20,7 +20,7 @@
     An interactive visualization of the popularity of music-- including genres,
     top singles, and famous artists-- from the 1960s to today.
   screenshot: nana.jpg
-  glitch_id: nana-final-project
+  glitch: nana-final-project
 
 - title: Mystic Poems
   section: 3
@@ -30,7 +30,7 @@
     of visualization based on some of his poems.
   instructions: Drag mouse to read Rumi’s poetry
   screenshot: mystic-poems.jpg
-  glitch_id: spring-thirsty-market
+  glitch: spring-thirsty-market
 
 - title: Be the Real Conductor
   section: 3
@@ -87,7 +87,7 @@
     environment. Then, type ENTER to start the game!"
   # instructions: Type enter to start the game and go to the next level. Move your hands to generate the sounds. Please try to mimic the music example you hear. You can press “play the music” button on the top left corner to replay the example music (we have not finished level 2 and level 3)
   screenshot: perfect-pitch-test.jpg
-  glitch_id: finalproject-kathryn-madi-2020
+  glitch: finalproject-kathryn-madi-2020
 
 - title: Point & Go! 2.0
   section: 3
@@ -112,7 +112,7 @@
     Use space bar or use your nose to control the character to jump (tilt  your head back).
     Saying “up” will give you a temporary shield that will protect you from the barrel.
     The goal is to survive as long as possible.
-  glitch_id: meteor-round-smash
+  glitch: meteor-round-smash
 
 - title: Immersing Entertainment
   section: 1
@@ -122,7 +122,7 @@
     Click the screen and start dancing to see effects!
     Press “Spacebar” to Stop.
     See how your movements creates animation.
-  glitch_id: ccl06-finalproject-yasmin-daryl
+  glitch: ccl06-finalproject-yasmin-daryl
 
 - title: The Four Elements
   author: D.J.
@@ -130,7 +130,7 @@
     Select one of the four quadrants on the landing page.
     Read your destiny and abstract qualities at the top.
     Admire the generative art and audio below.
-  glitch_id: dj-4project-elements
+  glitch: dj-4project-elements
 
 - title: The Rise and Fall of John Lennon
   section: 1
@@ -139,7 +139,7 @@
     Hover over each point in the timeline to learn a fact about John Lennon
     Click on the points to see if there is an interaction
   screenshot: lennon.jpg
-  glitch_id: furry-autumn-jay
+  glitch: furry-autumn-jay
 
 - title: Such A Big Surprise
   section: 1
@@ -149,7 +149,7 @@
     Use your nose to duck the evil and collect the presents!
     You will have 15 seconds to collect the presents.
     Once you collide the evil, you fail the game. You can click to restart.
-  glitch_id: final-surprise
+  glitch: final-surprise
 
 - title: "A Space Odyssey: Explore, Observe and Meditate"
   section: 1
@@ -161,7 +161,7 @@
     Please don’t change your window size after it begins.
     Please share with us your interpretations of the scenes.
   blog: https://wp.nyu.edu/elenahuang/2020/12/12/creative-coding-final-project-odyssey-elena-kyrie/
-  glitch_id: final-project-odyssey-kyrie-elena
+  glitch: final-project-odyssey-kyrie-elena
 
 - title: Face Yoga
   section: 1
@@ -172,7 +172,7 @@
     Exercise your facial muscle by doing the same facial expression as cue word.
     Gain 5 points if they match!
   blog: https://wp.nyu.edu/jl8608/2020/12/03/creative-coding-final-project/
-  glitch_id: ccl-final-chingyee-faceyoga
+  glitch: ccl-final-chingyee-faceyoga
 
 - title: Ambience
   section: 1
@@ -182,7 +182,7 @@
     Upon opening project link, enable your mic
     Whenever you speak into your mic, the mic will pick up the audio (the changes of the wave are based on volume of the audio)
     You will see the line across the canvas move/shift
-  glitch_id: procrastination-zone
+  glitch: procrastination-zone
 
 #
 # Section 5
@@ -193,16 +193,16 @@
   authors: Selina
   screenshot: fly-me-to-the-moon.jpg
   blog: https://wp.nyu.edu/selinaxue/2020/12/13/project-iv-final-fly-me-to-the-moon/
-  glitch_id: ccl-final-selina
+  glitch: ccl-final-selina
 
 - section: 5
   authors: Amber
   screenshot: amber.jpg
   blog: https://wp.nyu.edu/shanghai-amber_kong/
-  glitch_id: amber-final-project
+  glitch: amber-final-project
 
 - section: 5
   authors: Lillian
   screenshot: lillian.jpg
   blog: https://wp.nyu.edu/lillianxucclab/2020/12/07/project-iv-final-project/
-  glitch_id: finalprj-lillianxu
+  glitch: finalprj-lillianxu

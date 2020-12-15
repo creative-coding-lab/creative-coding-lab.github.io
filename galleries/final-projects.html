@@ -28,9 +28,9 @@ permalink: galleries/final-projects
     {% capture code_url %}https://github.com/{{ project.github_nwo }}#{% endcapture %}
     {% capture show_url %}https://{{ github_owner }}.github.io/{{ github_name }}#{% endcapture %}
     {% endif %}
-    {% if project.glitch_id %}
-    {% capture code_url %}https://glitch.com/edit/#!/{{ project.glitch_id }}{% endcapture %}
-    {% capture show_url %}https://{{ project.glitch_id }}.glitch.me{% endcapture %}
+    {% if project.glitch %}
+    {% capture code_url %}https://glitch.com/edit/#!/{{ project.glitch }}{% endcapture %}
+    {% capture show_url %}https://{{ project.glitch }}.glitch.me{% endcapture %}
     {% endif %}
     {% if project.code_url %}{% assign code_url = project.code_url %}{% endif %}
     {% if project.show_url %}{% assign show_url = project.show_url %}{% endif %}

@@ -11,6 +11,10 @@ title: Section 3 – Oliver
 - Appointments: [Sign up here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1TaDFWeEV2ZzFHfGRlZmF1bHR8NzBkMmRmNGEzZGE3ZDBmNzExMGUwYWZkYzkwZmFkYWI)
   - To ensure that the instructor is available, schedule your appointment at least an hour ahead of time. Google Calendar will let you schedule it at the last minute, but the instructor may not see it or be available then.
 
+## Project Galleries
+
+- [Final Projects](/galleries/final-projects#section-3)
+
 ## Lesson Notes
 
 ### Day 1.1 – Sept. 14

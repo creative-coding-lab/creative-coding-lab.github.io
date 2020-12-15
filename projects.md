@@ -21,3 +21,5 @@ This is a mini project to develop data visualizations utilizing the JavaScript O
 ## [Project IV. Creative Coding (25%)](https://docs.google.com/document/d/1sLbt5CQMm8ZVlM2s18iBkgFyY4Ma_jN4oooBxxPfQzA/edit?usp=sharing)
 
 In the previous recitations and projects you were asked to work on specific areas: Drawing, Generative Visuals, Interactive Experience, the Data Visualization. In this project, you may choose your own area.
+
+[Project Gallery](/galleries/final-projects)

@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: Creatures – Section 3
-permalink: galleries/section-3/creatures
+title: Creatures
+permalink: galleries/creatures
 section: 3
 ---
 
@@ -10,7 +10,7 @@ section: 3
 {% capture backup_name %}{{ creature.student_name }}’s Creature{% endcapture %}
 <h2>{{ creature.title | default: backup_name }}</h2>
 {% if creature.title %}<i>by {{ creature.student_name }}</i><br />{% endif %}
-<iframe src="{{ creature.sketch_url | replace: "/sketches/", "/present/" }}"
+<iframe src="{{ creature.sketch_url | replace: " /sketches/", "/present/" }}"
     width="{{ creature.sketch_size[0] | default: 400 }}" height="{{ creature.sketch_size[1] | default: 400 }}"
     loading="lazy" style="border:0"></iframe><br />
 <a href="{{ creature.sketch_url }}">Source</a><br />

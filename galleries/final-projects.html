@@ -45,11 +45,37 @@ permalink: galleries/final-projects
       <div class="meta">By {{ project.authors | replace: ", ", " & " }}</div>
       <div class="meta">Section {{ project.section }}</div>
       <div class="description">
-        {{ project.description }}
+        <div>{{ project.description }}</div>
       </div>
       {% if project.instructions %}
       <div class="description">
         <b>Instructions</b>: {{ project.instructions | replace: "•", "<br>• " }}
+      </div>
+      {% endif %}
+      {% if project.blog %}
+      <div class="description">
+        {% if project.blog[1] %}
+        {% for blog in project.blog %}
+        <div>
+          {% if blog.name %}
+          <a href="{{ blog.url }}">
+            <i class="book icon"></i>
+            Blog:
+            {{ blog.name }}</a>
+          {% else %}
+          <a href="{{ blog }}" target="blog">
+            <i class="book icon"></i>
+            Blog
+          </a>
+          {% endif %}
+        </div>
+        {% endfor %}
+        {% else %}
+        <a href="{{ blog[0] }}" target="blog">
+          <i class="book icon"></i>
+          Blog
+        </a>
+        {% endif %}
       </div>
       {% endif %}
     </div>
@@ -59,12 +85,6 @@ permalink: galleries/final-projects
       <a class="ui primary button" href="{{ show_url }}" target="play" title="Interact with the project">
         <i class="play icon"></i>
         Show
-      </a>
-      {% endif %}
-      {% if project.blog %}
-      <a href="{{ project.blog }}" target="source">
-        <i class="book icon"></i>
-        Blog
       </a>
       {% endif %}
       {% if code_url %}

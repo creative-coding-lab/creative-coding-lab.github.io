@@ -10,6 +10,9 @@
     projects. Move your head to control a ball, and touch off to see our all way
     long.
   screenshot: all-way-long.jpg
+  blog:
+  - https://wp.nyu.edu/nyushanghai-caracai/2020/12/14/iv-final-project-jyoti-cara/
+  # - https://wp.nyu.edu/jyoti/
   github: koapush/final-project
   show_url: https://all-way-long.vercel.app
 
@@ -17,8 +20,12 @@
   section: 3
   authors: Anna & Oona
   description: >
-    An interactive visualization of the popularity of music-- including genres,
-    top singles, and famous artists-- from the 1960s to today.
+    An interactive visualization of the popularity of music – including genres,
+    top singles, and famous artists – from the 1960s to today.
+  blog:
+  - {name: Documentation, url: https://wp.nyu.edu/oonpecson/2020/12/14/cclab-final-project-documentation/}
+  - {name: Anna, url: https://wp.nyu.edu/annaharbeck/2020/12/13/cclab-project-iv-final-project/}
+  - {name: Oona, url: https://wp.nyu.edu/oonpecson/2020/12/14/cclab-final-project-reflection/}
   screenshot: nana.jpg
   glitch: nana-final-project
 
@@ -29,6 +36,9 @@
     We both love the verses of the mystic poet Rumi, so we want to make a book
     of visualization based on some of his poems.
   instructions: Drag mouse to read Rumi’s poetry
+  blog:
+  - {name: Helen, url: https://wp.nyu.edu/helenchen/2020/12/15/mystic-poem-documentation-reflection/}
+  - {name: Cole, url: https://wp.nyu.edu/shanghai-colescoolcreations/2020/12/15/final-project-reflection/}
   screenshot: mystic-poems.jpg
   glitch: spring-thirsty-market
 
@@ -41,6 +51,9 @@
     user’s poses and responding accordingly.
   instructions: >
     Follow mouse movements according to the tutorial screen.
+  blog:
+  #- https://wp.nyu.edu/nyushanghai-yumenglu/
+  - https://wp.nyu.edu/nyushanghai-jr4960/2020/12/14/final-project/
   screenshot: be-the-real-conductor.jpg
   github: hubertyumenglu/Project-II
 
@@ -52,6 +65,7 @@
     be interactive features that allow the user to grow a tree through sound
     classification and mouse clicking. Enjoy the music and have a relaxing time.
   screenshot: kore.jpg
+  blog: https://wp.nyu.edu/viviannamo/2020/09/27/recitation-2-interactive-drawing/
   github: vkm9594/final-project-kore
 
 - title: M(I) Perspective
@@ -59,6 +73,9 @@
   authors: Vicky & Ethan
   description: A first-person gallery, using our favorites pictures that we have taken
   screenshot: mi-perspective.jpg
+  blog:
+  - {name: Vicky, url: https://wp.nyu.edu/nyushanghai-voury/2020/12/14/project-iv-final-project-mi-perspective/}
+  - {name: Ethan, url: https://wp.nyu.edu/nyushanghai-ethanlan/2020/12/14/final-project-mi-perspective/}
   github: ealescent/Project-IV.-M-I-Perspective
 
 - title: Bad Team
@@ -68,6 +85,7 @@
     I want to explore more random object generations along with a lot of user
     interactions.
   screenshot: bad-team.jpg
+  kevin: https://wp.nyu.edu/nyushanghai-kevindai/2020/12/14/cclab-final-project/
   github: kd-potato/CCLAB-Flower
 
 - title: Target
@@ -76,6 +94,7 @@
   description: >
     User will use hand gestures through motion detection to either collect or
     break an objects using hand gestures.
+  # blog: https://wp.nyu.edu/nyushanghai-jyotsnakaramdas/
   omit: true
 
 - title: Perfect Pitch Test
@@ -87,6 +106,9 @@
     environment. Then, type ENTER to start the game!"
   # instructions: Type enter to start the game and go to the next level. Move your hands to generate the sounds. Please try to mimic the music example you hear. You can press “play the music” button on the top left corner to replay the example music (we have not finished level 2 and level 3)
   screenshot: perfect-pitch-test.jpg
+  blog:
+  - {name: Madi, url: https://wp.nyu.edu/shanghai-madi2024/2020/12/14/final-project-iv-perfect-pitch-test-by-kathryn-madi/}
+  - {name: Kathryn, url: https://wp.nyu.edu/kathrynzhou/2020/12/14/project-iv-final-project-documentation-blog/}
   glitch: finalproject-kathryn-madi-2020
 
 - title: Point & Go! 2.0
@@ -98,6 +120,7 @@
     city chosen compared to other cities.
   instructions: Click in the different cities and explore all that each page has to offer.
   screenshot: point-and-go.jpg
+  blog: https://wp.nyu.edu/nyushanghai-mikekattan/2020/12/14/final-project-point-go-2-0/
   github: mikezuk/point-go-2.0
   show_url: https://point-and-go-2.vercel.app
 

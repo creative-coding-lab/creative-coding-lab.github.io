@@ -1,5 +1,4 @@
-function shuffleCards() {
-  let parent = document.getElementById("shuffled");
+function shuffleChildren(parent) {
   if (!parent) return;
   let children = shuffle(parent.children);
   for (let child of children) {
@@ -20,4 +19,18 @@ function shuffle(array) {
   return result;
 }
 
-shuffleCards();
+{
+  let parent = document.getElementById("shuffled");
+  if (parent) {
+    shuffleChildren(parent);
+  }
+  let m = document.location.hash.match(/section-(\d)/);
+  if (m) {
+    let otherSections = new Set(["1", "2", "3"]);
+    otherSections.delete(m[1]);
+    for (let s of otherSections) {
+      let d = document.getElementsByClassName(`cclab-section-${s}`);
+      [...d].forEach(e => e.style.display = "none");
+    }
+  }
+}

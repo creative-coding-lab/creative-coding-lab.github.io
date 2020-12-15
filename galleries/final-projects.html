@@ -17,7 +17,7 @@ permalink: galleries/final-projects
   {% assign projects = site.data.final-projects %}
   {% for project in projects %}
   {% if project.omit %}{% continue %}{% endif %}
-  <div class="ui card">
+  <div class="ui card cclab-section-{{ project.section }}">
     {% if project.omit %}{% continue %}{% endif %}
 
     {% assign code_url = null %}
@@ -34,6 +34,7 @@ permalink: galleries/final-projects
     {% endif %}
     {% if project.code_url %}{% assign code_url = project.code_url %}{% endif %}
     {% if project.show_url %}{% assign show_url = project.show_url %}{% endif %}
+
 
     {% if project.screenshot %}
     <img class="image"

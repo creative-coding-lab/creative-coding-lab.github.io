@@ -240,3 +240,17 @@
   screenshot: lillian.jpg
   blog: https://wp.nyu.edu/lillianxucclab/2020/12/07/project-iv-final-project/
   glitch: finalprj-lillianxu
+
+- section: 5
+  authors: Vivian Xing
+  title: Transportation Emission Tracker
+  screenshot: transportation-emission-tracker.jpg
+  show_url: https://editor.p5js.org/yx1660/present/kZzGyZoZQ
+  code: https://editor.p5js.org/yx1660/edit/kZzGyZoZQ
+
+- section: 5
+  authors: Elan Luo
+  title: The Artist Simulator
+  blog: http://wp.nyu.edu/shanghai-elanluo/2020/12/07/final-project-picasso-painting/
+  glitch: ccr0l-elanluo-finalproject
+  screenshot: artist-simulator.jpg

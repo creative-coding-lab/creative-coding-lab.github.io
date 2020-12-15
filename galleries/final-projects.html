@@ -22,10 +22,10 @@ permalink: galleries/final-projects
 
     {% assign code_url = null %}
     {% assign show_url = null %}
-    {% if project.github_nwo %}
-    {% assign github_owner = project.github_nwo | split: "/" | first %}
-    {% assign github_name = project.github_nwo | split: "/" | last %}
-    {% capture code_url %}https://github.com/{{ project.github_nwo }}#{% endcapture %}
+    {% if project.github %}
+    {% assign github_owner = project.github | split: "/" | first %}
+    {% assign github_name = project.github | split: "/" | last %}
+    {% capture code_url %}https://github.com/{{ project.github }}#{% endcapture %}
     {% capture show_url %}https://{{ github_owner }}.github.io/{{ github_name }}#{% endcapture %}
     {% endif %}
     {% if project.glitch %}

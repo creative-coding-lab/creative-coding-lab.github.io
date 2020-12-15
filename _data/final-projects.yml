@@ -10,7 +10,7 @@
     projects. Move your head to control a ball, and touch off to see our all way
     long.
   screenshot: all-way-long.jpg
-  github_nwo: koapush/final-project
+  github: koapush/final-project
   show_url: https://all-way-long.vercel.app
 
 - title: NaNa
@@ -42,7 +42,7 @@
   instructions: >
     Follow mouse movements according to the tutorial screen.
   screenshot: be-the-real-conductor.jpg
-  github_nwo: hubertyumenglu/Project-II
+  github: hubertyumenglu/Project-II
 
 - title: KORE
   section: 3
@@ -52,14 +52,14 @@
     be interactive features that allow the user to grow a tree through sound
     classification and mouse clicking. Enjoy the music and have a relaxing time.
   screenshot: kore.jpg
-  github_nwo: vkm9594/final-project-kore
+  github: vkm9594/final-project-kore
 
 - title: M(I) Perspective
   section: 3
   authors: Vicky & Ethan
   description: A first-person gallery, using our favorites pictures that we have taken
   screenshot: mi-perspective.jpg
-  github_nwo: ealescent/Project-IV.-M-I-Perspective
+  github: ealescent/Project-IV.-M-I-Perspective
 
 - title: Bad Team
   section: 3
@@ -68,7 +68,7 @@
     I want to explore more random object generations along with a lot of user
     interactions.
   screenshot: bad-team.jpg
-  github_nwo: kd-potato/CCLAB-Flower
+  github: kd-potato/CCLAB-Flower
 
 - title: Target
   section: 3
@@ -98,7 +98,7 @@
     city chosen compared to other cities.
   instructions: Click in the different cities and explore all that each page has to offer.
   screenshot: point-and-go.jpg
-  github_nwo: mikezuk/point-go-2.0
+  github: mikezuk/point-go-2.0
   show_url: https://point-and-go-2.vercel.app
 
 #

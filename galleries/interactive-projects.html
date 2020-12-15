@@ -17,11 +17,13 @@ permalink: galleries/interactive-projects
 <div id="shuffled" class="ui cards">
   {% assign projects = site.data.interactive-projects %}
   {% for project in projects %}
-  {% capture default_title %}{{ project.authors }}’s Project{% endcapture %}
-  <div class="ui card">
+  <div class="ui card cclab-section-{{ project.section }}">
+    {% capture default_title %}{{ project.authors }}’s Project{% endcapture %}
+
     {% if project.screenshot %}
     <img class="image" src="{{ project.screenshot }}" />
     {% endif %}
+
     <div class="content">
       <a class="header">{{ project.title | default: default_title }}</a>
       <div class="meta">By {{ project.authors | replace: ", ", " & " }}</div>
@@ -37,7 +39,7 @@ permalink: galleries/interactive-projects
     <div class="extra content">
       <a class="ui primary button" href="{{ project.url }}" target="play" title="Interact with the project">
         <i class="play icon"></i>
-        Run
+        Explore
       </a>
       {% if project.repo %}
       <a href="{{ project.repo }}" target="source"><i class="github icon"></i>Source</a>

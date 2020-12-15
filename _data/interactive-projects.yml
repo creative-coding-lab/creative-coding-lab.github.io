@@ -116,62 +116,83 @@
   repo: https://github.com/hubertYumengLu/Project-II
   url: https://hubertYumengLu.github.io/Project-II
 
+#
+# Section 1
+#
 
 - authors: Hazel & Kyrie
+  section: 1
   url: https://interactive-experience.glitch.me/
   instructions: Please try to understand the texts as hints
   screenshot: /assets/images/interactive-project/hazel-kyrie.jpg
   jamboard_page: 1
+
 - authors: Elena & Daryl
+  section: 1
   url: https://interactive-design-10-24-remix.glitch.me
   jamboard_page: 2
 
 - title: Brick Breaker
+  section: 1
   authors: Yasmin & D.J.
   url: https://glitch.com/~dj-yasmin-progress
   screenshot: /assets/images/interactive-project/brick-breaker.jpg
   jamboard_page: 3
+
 - authors: Doris & Julie
+  section: 1
   url: https://extreme-storm-babcat.glitch.me
   screenshot: /assets/images/interactive-project/doris-julie.jpg
   jamboard_page: 4
 
 - authors: Joanna & Nina
+  section: 1
   url: https://error-404-projectnofound.glitch.me
   screenshot: /assets/images/interactive-project/joanna-nina.jpg
   jamboard_page: 5
 
 - title: Catch Me If You Can
+  section: 1
   authors: Carol & Chingyee
   url: https://ccl-project-2-rewrite3.glitch.me
   screenshot: /assets/images/interactive-project/catch-me.jpg
   jamboard_page: 6
 
 - authors: Angie & Benny
+  section: 1
   url: https://quiz-project-clicks.glitch.me
   screenshot: /assets/images/interactive-project/angie-benny.jpg
   jamboard_page: 7
 
+#
+# Section 5
+#
+
 - authors: Rocio, Emma & Amber
+  section: 5
   url:
   screenshot: /assets/images/interactive-project/rocio-mma-mber.jpg
   jamboard_page: 8
 
 - authors: Elan & Lillian
+  section: 5
   url: https://glitch.com/~project2-xu-luo
   screenshot: /assets/images/interactive-project/elan-lillian.jpg
   jamboard_page: 9
 
 - authors: Billy, Jessie, and Ha Vi
+  section: 5
   url: https://jumping-game.glitch.me
   jamboard_page: 10
 
 - authors: Vivian & Selina
+  section: 5
   url: https://glitch.com/~launchpad-xxxl
   screenshot: /assets/images/interactive-project/launchpad.jpg
   jamboard_page: 11
 
 - authors: Cybil, Sophie & Erin
+  section: 5
   url: https://editor.p5js.org/xp2022/present/b78wDLqOg
   repo: https://editor.p5js.org/xp2022/sketches/b78wDLqOg
   screenshot: /assets/images/interactive-project/cybil-sophie-erin.jpg

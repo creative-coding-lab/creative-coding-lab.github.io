@@ -14,3 +14,8 @@ Recitation
 
 Mode
 : Online. Zoom meeting.
+
+Galleries:
+
+- [II. Interactive Experience](/galleries/interactive-projects#section-5)
+- [IV. Final Project](/galleries/final-projects#section-5)

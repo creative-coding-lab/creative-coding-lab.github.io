@@ -13,8 +13,8 @@ title: Section 3 – Oliver
 
 ## Project Galleries
 
-- [IV. Final Projects](/galleries/final-projects#section-3)
 - [II. Interactive Experience](/galleries/interactive-projects#section-3)
+- [IV. Final Project](/galleries/final-projects#section-3)
 - [Imaginary Creatures](/galleries/imaginary-creatures#section-3)
 
 ## Student Blogs

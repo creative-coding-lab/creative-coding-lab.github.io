@@ -52,7 +52,7 @@
   instructions: >
     Follow mouse movements according to the tutorial screen.
   blog:
-  #- https://wp.nyu.edu/nyushanghai-yumenglu/
+  - https://wp.nyu.edu/nyushanghai-yumenglu/2020/12/15/project-iv-final-project/
   - https://wp.nyu.edu/nyushanghai-jr4960/2020/12/14/final-project/
   screenshot: be-the-real-conductor.jpg
   github: hubertyumenglu/Project-II

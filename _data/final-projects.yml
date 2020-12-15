@@ -145,44 +145,44 @@
 - title: Such A Big Surprise
   section: 1
   authors: Doris & Julie
-  screenshot: surprise.jpg
   instructions: >
     • Use your nose to duck the evil and collect the presents!
     • You will have 15 seconds to collect the presents.
     • Once you collide the evil, you fail the game. You can click to restart.
+  screenshot: surprise.jpg
   glitch: final-surprise
 
 - title: "A Space Odyssey: Explore, Observe and Meditate"
   section: 1
   authors: Elena & Kyrie
-  screenshot: odyssey.jpg
   instructions: >
     • Please explore the interactions (drag, zoom in/out) after the prelude.
     • Please get your headset on.
     • Please don’t change your window size after it begins.
     • Please share with us your interpretations of the scenes.
+  screenshot: odyssey.jpg
   blog: https://wp.nyu.edu/elenahuang/2020/12/12/creative-coding-final-project-odyssey-elena-kyrie/
   glitch: final-project-odyssey-kyrie-elena
 
 - title: Face Yoga
   section: 1
   authors: Chingyee & Lau
-  screenshot: face-yoga.jpg
   instructions: >
     • Cue word (eg. happy, surprised) will pop out every 2s.
     • Exercise your facial muscle by doing the same facial expression as cue word.
     • Gain 5 points if they match!
+  screenshot: face-yoga.jpg
   blog: https://wp.nyu.edu/jl8608/2020/12/03/creative-coding-final-project/
   glitch: ccl-final-chingyee-faceyoga
 
 - title: Ambience
   section: 1
   authors: Nina & Joanna
-  screenshot: procrastination-zone.jpg
   instructions: >
     • Upon opening project link, enable your mic
     • Whenever you speak into your mic, the mic will pick up the audio (the changes of the wave are based on volume of the audio)
     • You will see the line across the canvas move/shift
+  screenshot: procrastination-zone.jpg
   glitch: procrastination-zone
 
 #
@@ -192,18 +192,28 @@
 - title: Finally, Fly me to the Moon
   section: 5
   authors: Selina
+  description: >
+    For this final project, titled “Fly Me to the Moon“, I am creating 3D
+    visuals of the galaxy surrounding the rotating moon, and embedding
+    information about the Moon in forms of texts and audios.
   screenshot: fly-me-to-the-moon.jpg
   blog: https://wp.nyu.edu/selinaxue/2020/12/13/project-iv-final-fly-me-to-the-moon/
   glitch: ccl-final-selina
 
 - section: 5
   authors: Amber
+  description: >
+    I want to make a camera that is “magic”. The users could have some special
+    effects moving together with their body movement.
   screenshot: amber.jpg
   blog: https://wp.nyu.edu/shanghai-amber_kong/
   glitch: amber-final-project
 
 - section: 5
   authors: Lillian
+  description: >
+    A Disney castle scene with fireworks displaying. Christmas elements will be
+    added for celebration.
   screenshot: lillian.jpg
   blog: https://wp.nyu.edu/lillianxucclab/2020/12/07/project-iv-final-project/
   glitch: finalprj-lillianxu

@@ -1,10 +1,12 @@
 main:
   - title: Syllabus
     url: /syllabus
-  - title: Projects
-    url: /projects
   - title: Resources
     url: /resources
+  - title: Projects
+    url: /projects
+  - title: Recitations
+    url: /recitations
   - title: §1 – Moon
     url: /sections/section-moon
   - title: §3 – Oliver

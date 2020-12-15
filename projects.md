@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Project Descriptions
+title: Projects
 ---
 
 ## [Project I. Generative Visuals](https://docs.google.com/document/d/1HF_XvDINWOYGLN8fGhALrKMd0CtyKGAMrymBe70Ln_M/edit?usp=sharing) (15%)

@@ -106,14 +106,12 @@
   section: 1
   description:
   instructions:
-  screenshot:
   glitch_id: meteor-round-smash
 - title: Immersing Entertainment
   authors: Yasmin & Daryl
   section: 1
   description:
   instructions:
-  screenshot:
   code_url:
   show_url:
 - title: The Rise and Fall of John Lennon
@@ -121,24 +119,24 @@
   section: 1
   description:
   instructions:
-  screenshot:
   glitch_id: furry-autumn-jay
+
 - title: Such A Big Surprise
   authors: Doris & Julie
   section: 1
   description:
   instructions: Move your nose to avoid the barriers.
-  screenshot:
-  code_url:
-  show_url:
-- title: Odyssey
+  glitch_id: final-surprise
+
+- title: "A Space Odyssey: Explore, Observe and Meditate"
   authors: Elena & Kyrie
   section: 1
   description:
   instructions: >
     The first theme is a prelude and there’s no interaction,  but you can interact with the second theme.
-  screenshot:
-  glitch_id: xjbg
+  blog: https://wp.nyu.edu/elenahuang/2020/12/12/creative-coding-final-project-odyssey-elena-kyrie/
+  glitch_id: final-project-odyssey-kyrie-elena
+
 - title: Face Yoga
   authors: Chingyee & Lau
   section: 1
@@ -148,9 +146,9 @@
     Step 2: Press any key to enter the game (still in the process of development…)... The game will end after 5s (“5s” is short for testing purpose)
     Step 3: Get your score! (Also I am developing the calculation algorithm)
     Step 4: Press “RETURN / ENTER” key to restart
-  screenshot:
-  code_url:
-  show_url:
+  blog: https://wp.nyu.edu/jl8608/2020/12/03/creative-coding-final-project/
+  glitch_id: ccl-final-chingyee-faceyoga
+
 - title: Ambience
   authors: Nina & Joanna
   section: 1
@@ -159,5 +157,21 @@
     Upon opening project link, enable your mic
     Whenever you speak into your mic, the mic will pick up the audio (the changes of the wave are based on volume of the audio)
     You will see the line across the canvas move/shift
-  screenshot:
   glitch_id: procrastination-zone
+
+
+- title: Finally, Fly me to the Moon
+  authors: Selina
+  section: 3
+  blog: https://wp.nyu.edu/selinaxue/2020/12/13/project-iv-final-fly-me-to-the-moon/
+  glitch_id: ccl-final-selina
+
+- authors: Amber
+  section: 3
+  blog: https://wp.nyu.edu/shanghai-amber_kong/
+  glitch_id: amber-final-project
+
+- author: Lillian
+  section: 3
+  blog: https://wp.nyu.edu/lillianxucclab/2020/12/07/project-iv-final-project/
+  glitch_id: finalprj-lillianxu

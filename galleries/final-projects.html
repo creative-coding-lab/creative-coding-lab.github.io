@@ -20,6 +20,8 @@ permalink: galleries/final-projects
   <div class="ui card cclab-section-{{ project.section }}">
     {% if project.omit %}{% continue %}{% endif %}
 
+    {% capture default_title %}{{ project.authors }}’s Project{% endcapture %}
+
     {% assign code_url = null %}
     {% assign show_url = null %}
     {% if project.github_nwo %}
@@ -34,7 +36,6 @@ permalink: galleries/final-projects
     {% endif %}
     {% if project.code_url %}{% assign code_url = project.code_url %}{% endif %}
     {% if project.show_url %}{% assign show_url = project.show_url %}{% endif %}
-
 
     {% if project.screenshot %}
     <img class="image"
@@ -65,6 +66,11 @@ permalink: galleries/final-projects
       <a href="{{ code_url }}" target="source">
         <i class="github icon"></i>
         Code
+      </a>
+      {% endif %}
+      {% if project.blog %}
+      <a href="{{ project.blog }}" target="source">
+        Blog
       </a>
       {% endif %}
     </div> <!-- .extra.content -->

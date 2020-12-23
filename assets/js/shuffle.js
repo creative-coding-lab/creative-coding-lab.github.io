@@ -20,9 +20,10 @@ function shuffle(array) {
 }
 
 {
-  let parent = document.getElementById("shuffled");
-  if (parent && !document.location.hash.match(/sorted/)) {
-    shuffleChildren(parent);
+  if (!document.location.hash.match(/sorted/)) {
+    let parent = document.getElementById("shuffled");
+    parent && shuffleChildren(parent);
+    [...document.getElementsByClassName("shuffled")].forEach(shuffleChildren);
   }
   let m = document.location.hash.match(/section-(\d)/);
   if (m) {

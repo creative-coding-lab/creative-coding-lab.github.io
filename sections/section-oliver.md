@@ -22,7 +22,7 @@ section: 3
 
 ## Student Blogs
 
-<ul>
+<ul class="shuffled">
 {% for student in site.data.students %}
 {% unless student.section == page.section %}{% continue %}{% endunless %}
 <li><a href="{{ student.blog }}">{{ student.name }}</a></li>

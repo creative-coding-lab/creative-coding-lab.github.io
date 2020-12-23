@@ -53,20 +53,15 @@ permalink: galleries/final-projects
       {% if project.blog %}
       <div class="description">
         {% if project.blog[1] %}
-        {% for blog in project.blog %}
+        {% for blog_hash in project.blog %}
+        {% for entry in blog_hash %}
         <div>
-          {% if blog.name %}
-          <a href="{{ blog.url }}">
+          <a href="{{ entry[1] }}" target="blog">
             <i class="book icon"></i>
-            Blog:
-            {{ blog.name }}</a>
-          {% else %}
-          <a href="{{ blog }}" target="blog">
-            <i class="book icon"></i>
-            Blog
+            {{ entry[0] }}
           </a>
-          {% endif %}
         </div>
+        {% endfor %}
         {% endfor %}
         {% else %}
         <a href="{{ blog[0] }}" target="blog">

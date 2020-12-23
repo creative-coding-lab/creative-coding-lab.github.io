@@ -2,5 +2,9 @@
     "[scss]": {
         "editor.formatOnSave": false
     },
-    "jekyll-run.commandLineArguments": "--config _config.local.yml"
+    "editor.codeActionsOnSave": {
+        "source.fixAll.markdownlint": true
+    },
+    "jekyll-run.commandLineArguments": "--config _config.local.yml",
+    "python.pythonPath": "/usr/local/bin/python3"
 }

@@ -1,32 +1,48 @@
 - name: Cara
   blog: https://wp.nyu.edu/nyushanghai-caracai/
+  section: 3
 - name: Jyoti
   blog: https://wp.nyu.edu/jyoti/
+  section: 3
 - name: Anna
   blog: https://wp.nyu.edu/annaharbeck/
+  section: 3
 - name: Oona
   url: https://wp.nyu.edu/oonpecson/
+  section: 3
 - name: Helen
   blog: https://wp.nyu.edu/helenchen/
+  section: 3
 - name: Cole
   blog: https://wp.nyu.edu/shanghai-colescoolcreations/category/creative-coding/
+  section: 3
 - name: Hubert
   blog: https://wp.nyu.edu/nyushanghai-yumenglu/
+  section: 3
 - name: Jarah
   blog: https://wp.nyu.edu/nyushanghai-jr4960/
+  section: 3
 - name: Vivianna
   blog: https://wp.nyu.edu/viviannamo/category/creative-coding-lab/
+  section: 3
 - name: Vicky
   blog: https://wp.nyu.edu/nyushanghai-voury/category/ccl/
+  section: 3
 - name: Ethan
   blog: https://wp.nyu.edu/nyushanghai-ethanlan/category/creative-coding-lab/
+  section: 3
 - name: Kevin
   blog: https://wp.nyu.edu/nyushanghai-kevindai/2020/12/14/cclab-final-project/
+  section: 3
 - name: Jyotsna
   blog: https://wp.nyu.edu/nyushanghai-jyotsnakaramdas/
+  section: 3
 - name: Madi
   blog: https://wp.nyu.edu/shanghai-madi2024/
+  section: 3
 - name: Kathryn
   blog: https://wp.nyu.edu/kathrynzhou/category/creative-coding-lab/
+  section: 3
 - name: Mike
   blog: https://wp.nyu.edu/nyushanghai-mikekattan/
+  section: 3

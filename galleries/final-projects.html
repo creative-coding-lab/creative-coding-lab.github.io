@@ -50,6 +50,7 @@ permalink: galleries/final-projects
         <b>Instructions</b>: {{ project.instructions | replace: "•", "<br>• " }}
       </div>
       {% endif %}
+
       {% if project.blog %}
       <div class="description">
         {% if project.blog[1] %}
@@ -64,14 +65,15 @@ permalink: galleries/final-projects
         {% endfor %}
         {% endfor %}
         {% else %}
-        <a href="{{ blog[0] }}" target="blog">
+        <a href="{{ project.blog }}" target="blog">
           <i class="book icon"></i>
           Blog
         </a>
         {% endif %}
       </div>
-      {% endif %}
-    </div>
+      {% endif %} {% comment %} project.blog {% endcomment %}
+
+    </div> <!-- content -->
 
     <div class="extra content">
       {% if show_url %}

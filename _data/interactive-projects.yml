@@ -1,4 +1,3 @@
-
 - title: Point and Go!
   authors: Oona, Mike
   section: 3
@@ -55,6 +54,8 @@
   instructions: >
     Press the Space key to launch the ball. Bounce the ball to hit the virus.
     Win if you successfully kill the virus. Lose if you run out of 9 chances.
+  blog:
+  - Jyoti: https://wp.nyu.edu/jyoti/2020/11/06/project-ii-interactive-experience-jyoti-cara/
   screenshot: https://github.com/Koapush/project2/raw/master/screenshot.png
   repo: https://github.com/Koapush/project2
   url: https://Koapush.github.io/project2
@@ -99,6 +100,8 @@
     The square are activated upon mouse press and the small squares within
     changes color, making the illusion that it is scaling bigger and smaller in
     a very fast pace.
+  blog:
+  - Helen: https://wp.nyu.edu/helenchen/2020/11/07/group-project-1-clicktilez/
   screenshot: /assets/images/interactive-project/clicktilez.png
   repo: https://github.com/nacoleycole/Group-Project---Helen-Cole
   url: https://nacoleycole.github.io/Group-Project---Helen-Cole/

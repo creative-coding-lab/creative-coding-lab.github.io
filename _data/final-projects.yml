@@ -39,6 +39,7 @@
   blog:
   - Helen: https://wp.nyu.edu/helenchen/2020/12/15/mystic-poem-documentation-reflection/
   - Cole: https://wp.nyu.edu/shanghai-colescoolcreations/2020/12/15/final-project-reflection/
+  - Documentation: https://wp.nyu.edu/shanghai-colescoolcreations/2020/11/08/group-project-documentation/
   screenshot: mystic-poems.jpg
   glitch: spring-thirsty-market
 
@@ -87,6 +88,7 @@
   screenshot: bad-team.jpg
   blog: https://wp.nyu.edu/nyushanghai-kevindai/2020/12/14/cclab-final-project/
   github: kd-potato/CCLAB-Flower
+  show_url: https://kd-potato.github.io/CCLAB-Flower/p5-template-main/
 
 - title: Target
   section: 3
@@ -94,7 +96,8 @@
   description: >
     User will use hand gestures through motion detection to either collect or
     break an objects using hand gestures.
-  # blog: https://wp.nyu.edu/nyushanghai-jyotsnakaramdas/
+  blog: https://wp.nyu.edu/nyushanghai-jyotsnakaramdas/2020/12/22/cclab-final-project-data-visualization/
+  glitch: future-confusion-detective
   skip: true
 
 - title: Perfect Pitch Test

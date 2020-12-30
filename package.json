@@ -1,0 +1,15 @@
+{
+  "name": "creative-coding-lab",
+  "version": "1.0.0",
+  "repository": "https://github.com/creative-coding-lab/creative-coding-lab.github.io",
+  "author": "Oliver Steele <ows1@nyu.edu>",
+  "license": "MIT",
+  "scripts": {
+    "build": "bundle exec jekyll build -c _config.local.yml",
+    "lint": "markdownlint **/*.md --ignore 'node_modules/**/*.md' --ignore 'elm-stuff/packages/**/*.md' --ignore 2017-index.md",
+    "serve": "bundle exec jekyll serve -c _config.local.yml"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.26.0"
+  }
+}

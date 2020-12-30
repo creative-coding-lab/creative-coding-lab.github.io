@@ -25,10 +25,17 @@ Cookbook](https://docs.google.com/document/d/1Y2A9jh5XxCojrMkIbzu2FROSv4Tl3izR-O
 A coding cookbook contains recipes, organized by task.
 
 [p5.js
-Tutorials](https://www.notion.so/55581dbef83f40e3a386ddc6be1bbee8?v=6cbd3221f9ca493781875887b169abca)
-is a set of step-by-step examples that demonstrate various concepts or
-techniques. Items that are tagged "CCL F20" were written this semester, in order
-to answer student questions or otherwise supplement the course material.
+eamples](https://www.notion.so/p5-js-Examples-18214cd693bd43919d9d0c4cded0b05f)
+demonstrate how to do things that have come up during student projects:
+controlling gif animation, cross-fading audio, slicing sketches, etc.
+
+[p5.js step-by-step
+tutorials](https://www.notion.so/55581dbef83f40e3a386ddc6be1bbee8?v=6cbd3221f9ca493781875887b169abca)
+demonstrate various concepts or techniques. These differ from the _examples_ in
+that they take several steps to build up to a complete solution, and may general
+some alternative solutions along the way. They are intended to teach an
+understanding of various concepts along the way to the solution, rather than to
+present it wholesale.
 
 ## Online Tools
 

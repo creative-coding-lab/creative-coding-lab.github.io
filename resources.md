@@ -25,7 +25,7 @@ Cookbook](https://docs.google.com/document/d/1Y2A9jh5XxCojrMkIbzu2FROSv4Tl3izR-O
 A coding cookbook contains recipes, organized by task.
 
 [p5.js
-eamples](https://www.notion.so/p5-js-Examples-18214cd693bd43919d9d0c4cded0b05f)
+examples](https://www.notion.so/p5-js-Examples-18214cd693bd43919d9d0c4cded0b05f)
 demonstrate how to do things that have come up during student projects:
 controlling gif animation, cross-fading audio, slicing sketches, etc.
 

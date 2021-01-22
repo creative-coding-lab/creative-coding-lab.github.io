@@ -5,8 +5,8 @@ main:
     url: /resources
   - title: Projects
     url: /projects
-  - title: Recitations
-    url: /recitations
+  # - title: Recitations
+  #   url: /recitations
   - title: Moon
     url: /sections/section-moon
   - title: Oliver

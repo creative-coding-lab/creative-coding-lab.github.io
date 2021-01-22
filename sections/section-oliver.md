@@ -14,6 +14,8 @@ section: 2
     least an hour ahead of time. Google Calendar will let you schedule it at the
     last minute, but the instructor may not see it or be available then.
 
+{%if site.data.students %}
+
 ## Student Blogs
 
 <ul class="shuffled">
@@ -22,3 +24,4 @@ section: 2
 <li><a href="{{ student.blog }}">{{ student.name }}</a></li>
 {% endfor %}
  </ul>
+{% endif %}

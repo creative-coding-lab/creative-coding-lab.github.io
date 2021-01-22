@@ -6,6 +6,9 @@ logo: /assets/images/cclab-logo-transparent.png
 
 exclude:
   - README.md
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
 
 plugins:
   - jekyll-paginate
@@ -14,5 +17,3 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - Gemfile
-  - Gemfile.lock

@@ -7,9 +7,7 @@ main:
     url: /projects
   - title: Recitations
     url: /recitations
-  - title: §1 – Moon
+  - title: Moon
     url: /sections/section-moon
-  - title: §3 – Oliver
+  - title: Oliver
     url: /sections/section-oliver
-  - title: §5 – Rudi
-    url: /sections/section-rudi

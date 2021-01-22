@@ -14,8 +14,6 @@ This is a **group software project** to develop a **screen-based interactive
 experience** utilizing **Object-Oriented Programming** concepts and **mouse and/or
 keyboard interaction**(s).
 
-[Project Gallery](/galleries/interactive-projects)
-
 ## [Project III. Data Visualization (15%)](https://docs.google.com/document/d/148UYwBW0jFeLH6NjE_SVmLDn4EO5fwCmlpaeraB6NvI/edit?usp=sharing)
 
 This is a mini project to develop data visualizations utilizing the JavaScript Object Notation (JSON) and data parsing.
@@ -24,4 +22,3 @@ This is a mini project to develop data visualizations utilizing the JavaScript O
 
 In the previous recitations and projects you were asked to work on specific areas: Drawing, Generative Visuals, Interactive Experience, the Data Visualization. In this project, you may choose your own area.
 
-[Project Gallery](/galleries/final-projects)

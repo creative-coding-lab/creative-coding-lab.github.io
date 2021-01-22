@@ -18,7 +18,3 @@ Mode
 Classroom
 : Room 824 and Zoom meeting
 
-Project Galleries:
-
-- [II. Interactive Experience](/galleries/interactive-projects#section-1)
-- [IV. Final Project](/galleries/final-projects#section-1)

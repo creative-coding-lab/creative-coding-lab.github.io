@@ -14,12 +14,6 @@ section: 3
     least an hour ahead of time. Google Calendar will let you schedule it at the
     last minute, but the instructor may not see it or be available then.
 
-## Project Galleries
-
-- [II. Interactive Experience](/galleries/interactive-projects#section-3)
-- [IV. Final Project](/galleries/final-projects#section-3)
-- [Imaginary Creatures](/galleries/imaginary-creatures#section-3)
-
 ## Student Blogs
 
 <ul class="shuffled">

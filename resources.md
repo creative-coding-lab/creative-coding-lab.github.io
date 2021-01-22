@@ -53,8 +53,7 @@ present it wholesale.
 
 ### Faculty
 
-* Moon: Thursdays, 2pm – 5pm. Room 939 or Zoom. ([By appointment](jh.moon@nyu.edu))
-* Rudi: By appointment.
+* Moon: ([By appointment](jh.moon@nyu.edu))
 * Steele: By appointment. [Sign up here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1TaDFWeEV2ZzFHfGRlZmF1bHR8NzBkMmRmNGEzZGE3ZDBmNzExMGUwYWZkYzkwZmFkYWI)
 
 To ensure that the instructor is available, schedule your appointment at least
@@ -69,10 +68,8 @@ appointment.
 ### Fellows
 
 * [Linda László](lll337@nyu.edu)
-* [Yinmiao (Demi) Li](yl4121@nyu.edu)
 * [Zeping (Phyllis) Fei](zf534@nyu.edu)
 
 ### Learning Assistants
 
-* [Haoquan (Kenneth) Wang](hw1882@nyu.edu)
-* [Ning Zhou](nz826@nyu.edu)
+TBD

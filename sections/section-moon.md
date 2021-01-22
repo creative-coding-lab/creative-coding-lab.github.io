@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Section 1 – Moon
+title: Moon
 ---
 
 Instructor
@@ -13,8 +13,7 @@ Recitation
 : Fridays, 11:15am – 12:30pm
 
 Mode
-: Blended.
+: Online.
 
 Classroom
-: Room 824 and Zoom meeting
-
+: Zoom meeting

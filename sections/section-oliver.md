@@ -1,12 +1,12 @@
 ---
 layout: posts
-title: Section 3 – Oliver
-section: 3
+title: Oliver
+section: 2
 ---
 
 - Instructor: [Oliver Steele](ows1@nyu.edu)
-- Meeting Time: Mondays / Wednesdays / Friday 9:45am – 11:00am;
-- Mode: Online (Zoom)
+- Meeting Time: Tuesday / Thursday / Friday 9:45am – 11:00am
+- Mode: In-person
 - Assignments: [Google Classroom](https://classroom.google.com/u/0/c/MTIyNjY4MDU3NDI1)
 - [Slides](https://drive.google.com/drive/folders/18UIs0775R-IxmyngyzBhT_igl3mrsBnB)
 - Appointments: [Sign up here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1TaDFWeEV2ZzFHfGRlZmF1bHR8NzBkMmRmNGEzZGE3ZDBmNzExMGUwYWZkYzkwZmFkYWI)

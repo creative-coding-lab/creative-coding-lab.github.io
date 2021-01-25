@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "build": "bundle exec jekyll build -c _config.local.yml",
-    "lint": "markdownlint **/*.md --ignore 'node_modules/**/*.md' --ignore 'elm-stuff/packages/**/*.md' --ignore 2017-index.md",
+    "lint": "markdownlint . --ignore node_modules",
     "serve": "bundle exec jekyll serve -c _config.local.yml"
   },
   "devDependencies": {

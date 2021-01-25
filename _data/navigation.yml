@@ -3,6 +3,8 @@ main:
     url: /syllabus
   - title: Resources
     url: /resources
+  - title: Office Hours
+    url: /office-hours
   - title: Projects
     url: /projects
   # - title: Recitations

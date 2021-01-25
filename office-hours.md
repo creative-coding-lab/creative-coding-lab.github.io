@@ -19,9 +19,10 @@ appointment.
 
 ### Fellows
 
-* [Linda László](lll337@nyu.edu)
-* [Zeping (Phyllis) Fei](zf534@nyu.edu)
+* Linda László &lt;<lll337@nyu.edu>&gt;
+* Zeping (Phyllis) Fei &lt;<zf534@nyu.edu>&gt;
 
 ### Learning Assistants
 
-TBD
+* Jyoti Tyan &lt;<tj1059@nyu.edu>&gt;
+* Yuhang Zheng &lt;<yz6209@nyu.edu>&gt;

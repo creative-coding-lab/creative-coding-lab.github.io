@@ -19,8 +19,13 @@ appointment.
 
 ### Fellows
 
-* Linda László &lt;<lll337@nyu.edu>&gt;
-* Zeping (Phyllis) Fei &lt;<zf534@nyu.edu>&gt;
+* Linda László &lt;<lll337@nyu.edu>&gt; (online)
+* Zeping (Phyllis) Fei &lt;<zf534@nyu.edu>&gt; (studio)
+
+Studio hours:
+
+* Mon 5:30pm-9pm; Tue 11:00-11:45am & 1:45pm-6pm; Wed 9:30-12:30am; Thur 1:30-3:15pm
+* We stay until 7pm in the first week, starting from week 2 we stay until 9pm
 
 ### Learning Assistants
 

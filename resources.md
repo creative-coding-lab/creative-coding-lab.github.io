@@ -15,8 +15,7 @@ Syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jr
 * [p5.js examples][p5js-examples]
   demonstrate how to do things that have come up during student projects:
   controlling gif animation, cross-fading audio, slicing sketches, etc.
-* [p5.js step-by-step
-  tutorials](p5js-tutorials)
+* [p5.js step-by-step tutorials][p5js-tutorials]
   demonstrate various concepts or techniques. These differ from the _examples_
   in that they take several steps to build up to a complete solution, and may
   general some alternative solutions along the way. They are intended to teach

@@ -22,6 +22,9 @@ To ensure that the instructor is available, schedule your appointment at
   least an hour ahead of time. Google Calendar will let you schedule it at the
   last minute, but the instructor may not see it or be available then.
 
+Instructor notes
+: [Lecture notes](https://notes.osteele.com/courses/creative-coding)
+
 {%if site.data.students %}
 
 ## Student Blogs

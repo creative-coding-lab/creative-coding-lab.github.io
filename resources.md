@@ -5,8 +5,13 @@ title: Resources
 
 ## Course Materials and Cookbook
 
-See the [Course Materials section of the
-Syllabus](https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit#bookmark=id.4vh2xmnvrsau).
+* [Course Materials section of the
+Syllabus][syllabus-course-materials]
+* [Course Cookbook][cookbook]
+
+[syllabus-course-materials]: https://docs.google.com/document/d/1Bp_ZFETOXmskPMdWBHZ81BNzNsrq1Yq5jrcFN_n0Rv0/edit#bookmark=id.4vh2xmnvrsau
+
+[cookbook]: https://docs.google.com/document/d/1Y2A9jh5XxCojrMkIbzu2FROSv4Tl3izR-OERsgMzCZc/edit
 
 ## Instructor Notes
 

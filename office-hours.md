@@ -24,11 +24,15 @@ appointment.
 
 Studio hours:
 
-| Mon  | Tue   | Wed  | Thu   |
-|---|---|---|---|
-| 5:30pm-9pm  |  11:00-11:45am & 1:45pm-6pm | 9:30-12:30am | 1:30-3:15pm |
+|      | Phyllis (Studio) | Yuhang |
+|------|------------------|--------|
+| Mon  | 5:30pm-9pm |
+| Tue  | 11:00-11:45am & 9:30-12:30am |
+| Wed  | 9:30-12:30am | 9-11 am |
+| Thu  | 1:30-3:15pm |
+| Fri  | | 3-5pm |
 
-We stay until 7pm in the first week, starting from week 2 we stay until 9pm
+You can ask any IMA Fellow for help. There are IMA Fellows in the studio until 9pm.
 
 ### Learning Assistants
 

@@ -11,5 +11,9 @@ main:
   #   url: /recitations
   - title: Moon
     url: /sections/section-moon
-  - title: Oliver
-    url: /sections/section-oliver
+  - title: Leon
+    url: /sections/section-leon
+  - title: Gottfried
+    url: /sections/section-gottfried
+  - title: Moon (Online)
+    url: /sections/section-moon-online

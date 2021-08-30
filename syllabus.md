@@ -9,4 +9,4 @@ The syllabus and course schedule are subject to change. Changes will be communic
 
 ## Syllabus
 
-* [Syllabus - Spring 2021](https://docs.google.com/document/d/1xilaEuvxk4pd6HeP-T-r7DsD1A42Z3djXpdYJuo4Y50/edit?usp=sharing)
+* [Syllabus - Fall 2021](https://docs.google.com/document/d/1Ek8vWiufoIq08E2qKPyYzuRdi0wNM7EPFy0fjgPcoZA/edit?usp=sharing)

@@ -17,11 +17,6 @@ Syllabus][syllabus-course-materials]
 ## P5.js Playgrounds
 
 * [p5.js Web Editor](https://editor.p5js.org)
-<!---
-* [OpenProcessing.org](https://www.openprocessing.org)
-* [JavaScript Tutor](http://www.pythontutor.com/javascript.html#mode=edit)
-* [Glitch](https://glitch.com)
- --->
  
 ## Visual Studio Code
 
@@ -52,4 +47,10 @@ Later in the semester, we will cover the use of the Visual Studio Code applicati
 
 [p5js-examples]: https://www.notion.so/p5-js-Examples-18214cd693bd43919d9d0c4cded0b05f
 [p5js-tutorials]: https://www.notion.so/55581dbef83f40e3a386ddc6be1bbee8?v=6cbd3221f9ca493781875887b169abca
+ --->
+
+<!---
+* [OpenProcessing.org](https://www.openprocessing.org)
+* [JavaScript Tutor](http://www.pythontutor.com/javascript.html#mode=edit)
+* [Glitch](https://glitch.com)
  --->

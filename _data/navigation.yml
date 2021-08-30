@@ -1,19 +1,13 @@
 main:
   - title: Syllabus
     url: /syllabus
-  - title: Resources
-    url: /resources
+  - title: Course Info
+    url: /course-info
   - title: Office Hours
     url: /office-hours
+  - title: Resources
+    url: /resources    
   - title: Projects
     url: /projects
-  # - title: Recitations
-  #   url: /recitations
-  - title: Moon
-    url: /sections/section-moon
-  - title: Leon
-    url: /sections/section-leon
-  - title: Gottfried
-    url: /sections/section-gottfried
-  - title: Moon (Online)
-    url: /sections/section-moon-online
+#  - title: Moon
+#    url: /sections/section-moon

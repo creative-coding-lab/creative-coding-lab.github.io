@@ -27,4 +27,4 @@ You can ask any IMA Fellow for help. There are IMA Fellows in the studio until 9
 
 ### Learning Assistants
 
-* Sophie Xiao Peng &lt;<xp2022@nyu.edu>&gt;
+* [Sophie Xiao Peng](mailto:xp2022@nyu.edu)

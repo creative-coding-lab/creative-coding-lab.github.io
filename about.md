@@ -6,7 +6,7 @@ permalink: /
 
 ## Course Description
 
-In this course students will learn the fundamentals of computation, software design, and web technologies, through a series of creative projects. The course is intended to equip students with the skills to develop artistic and business projects that include a significant computational component. Topics such as variables, functions, components, and functional and reactive programming will be brought together to create interactive applications, generative art, data visualization, and other domains. Within the framework of these creative projects students will develop a greater understanding of how computer programs operate, be exposed to various concepts used to create experiences and interactions, and become more familiar with some of the technologies that constitute the internet. This course is intended for students with no prior programming background.
+In this course students will learn the fundamentals of computation, software design, and web technologies, through a series of creative projects. The course is intended to equip students with the skills to develop artistic and business projects that include a significant computational component. Topics such as variables, functions, components, and functional and reactive programming will be brought together to create interactive applications, generative art, and other domains. Within the framework of these creative projects students will develop a greater understanding of how computer programs operate, be exposed to various concepts used to create experiences and interactions, and become more familiar with some of the technologies that constitute the internet. This course is intended for students with no prior programming background.
 
 ## Course Overview and Learning Outcomes
 
@@ -15,30 +15,29 @@ Students will learn computational thinking, program design, and debugging, withi
 ## Learning Outcomes
 
 Upon completion of this course, students will be able to:
-
-- practice and produce the fundamentals of programming, focusing on:
-  - variables, values, types, and expressions,
-  - variable mutation,
-  - functions that use side effects, and
+- Practice and produce the fundamentals of programming, focusing on:
+  - variables, values, and variable mutation;
+  - data types, operators, and expressions;
+- procedural statements — assignments, conditionals, and iterations (loops);
+- functions;
+  - use side effects, and
   - pure functions that return values;
-- demonstrate Object-Oriented Programming and integrate the concept into practical applications;
-  - discuss the concept of modularity and reusability;
-  - develop and utilize arrays, objects, and predefined classes;
-  - design and implement classes;
-- apply comprehensively various methods in p5.js and visualize generative and interactive animations;
-- combine fundamentals of web development with visual programming techniques to produce creative web pages, exploring;
-  - basic uses of HTML DOM and CSS;
-  - the relationship between JavaScript (JS), p5.js, a web page, and a browser;
-- demonstrate and practice troubleshooting skills and debugging strategies, including:
-  - ability to use online p5.js and JavaScript reference materials,
+- Recognize data formats and data structures, and employ data organization and management for efficient access, modification and/or visualization, utilizing:
+  - arrays;
+  - objects;
+  - JavaScript Objects; and
+  - JavaScript Object Notation (JSON);
+- Demonstrate Object-Oriented Programming (OOP) and integrate the concept into practical applications by:
+  - utilizing predefined classes;
+  - designing and implementing classes; and
+  - developing and manipulating arrays (lists) of objects;
+- Discuss and apply the concept of modularity and reusability, utilizing the programming concepts and techniques mentioned above;
+- Practice and display troubleshooting skills and debugging strategies, including:
+  - ability to use online reference materials and example codes; and
   - uses of the developer console for debugging;
-- expand and apply knowledge and experience in other programming languages;
-  - find, evaluate, and use third-party libraries through copied files, package.json and a CDN.
-  - add libraries by copying files, using package.json, or using a CDN.
-  - employ a web API to request and pull useful data in JSON format.
-  - demonstrate the differences between JavaScript and another programming language.
-- utilize and practice the command lines
-  - make a use of the command line to navigate the file hierarchy directories, create and move files and directories.
-  - demonstrate the ability to create (from a template), modify, and run a program that uses npm.
-- produce an interactive web project by utilizing a combination of concepts and techniques discussed and demonstrated throughout the course, and;
-- develop and discuss meaningful and effective user interactions and visualizations, and recognize the context of Creative Coding.
+- Combine fundamentals of web development with visual programming techniques to produce creative web pages, exploring;
+  - basic uses of HTML DOM and CSS; and
+  - the relationship between JavaScript (JS), p5.js, a web page, and a browser;
+- Produce an generative/interactive web project by utilizing a combination of concepts and techniques discussed and demonstrated throughout the course; and
+- Recognize the contexts of generative art, algorithmic animation, data visualization and human-computer interaction, and discuss how creative coding would change the future digital arts.
+

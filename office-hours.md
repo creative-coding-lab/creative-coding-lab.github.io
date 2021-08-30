@@ -5,9 +5,9 @@ title: Office Hours
 
 ### Faculty
 
-* Moon: [By appointment.](jh.moon@nyu.edu)
+* Moon: [By appointment.](mailto:jh.moon@nyu.edu)
 * Leon: By appointment. [Sign up here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU)
-* Gottfried: [By appointment.](gh2267@nyu.edu)
+* Gottfried: [By appointment.](mailto:gh2267@nyu.edu)
 
 To ensure that the instructor is available, schedule your appointment at least
 an hour ahead of time. Google Calendar will let you schedule it at the last
@@ -20,8 +20,8 @@ appointment.
 
 ### Fellows
 
-* Phyllis Zeping Fei &lt;<zf534@nyu.edu>&gt; (studio & online)
-* Samantha Cui &lt;<yc3001@nyu.edu>&gt; (studio & online)
+* [Phyllis Zeping Fei](mailto:zf534@nyu.edu) (studio & online)
+* [Samantha Cui](mailto:yc3001@nyu.edu) (studio & online)
 
 You can ask any IMA Fellow for help. There are IMA Fellows in the studio until 9pm.
 
